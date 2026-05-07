@@ -1,0 +1,813 @@
+Date,Season,Competition,Stage,Home Team,Away Team,Home Goals,Away Goals,Neutral,Match Result,Home Team Country,Away Team Country,Home Team Region,Away Team Region,Cross Region Match,Venue Altitude (m),Away Team Altitude (m),Altitude Difference (m),Travel Distance (km),Climate Zone
+2010-01-10,2010,African Cup of Nations,Group Stage,Angola,Mali,4,4,False,Draw,Angola,Mali,Southern Africa,West Africa,Yes,60,370,-310,,Tropical
+2010-01-14,2010,African Cup of Nations,Group Stage,Angola,Malawi,2,0,False,Home Win,Angola,Malawi,Southern Africa,Southern Africa,No,60,1050,-990,,Tropical
+2010-01-18,2010,African Cup of Nations,Group Stage,Angola,Algeria,0,0,False,Draw,Angola,Algeria,Southern Africa,North Africa,Yes,60,424,-364,,Tropical
+2010-01-24,2010,African Cup of Nations,Quarter-final,Angola,Ghana,0,1,False,Away Win,Angola,Ghana,Southern Africa,West Africa,Yes,60,61,-1,,Tropical
+2010-07-16,2010,CAF Champions League,Group Stage,ES Setif,Esperance de Tunis,0,1,False,Away Win,Algeria,Tunisia,North Africa,North Africa,No,1096,10,1086,431.9,Semi-Arid
+2010-07-18,2010,CAF Champions League,Group Stage,Dynamos,TP Mazembe,0,2,False,Away Win,Zimbabwe,DR Congo,Southern Africa,Central Africa,Yes,1490,1250,240,786.0,Tropical
+2010-07-18,2010,CAF Champions League,Group Stage,Heartland,Al Ahly,1,1,False,Draw,Nigeria,Egypt,West Africa,North Africa,Yes,80,23,57,3721.1,Tropical
+2010-07-18,2010,CAF Champions League,Group Stage,Ismaily,JS Kabylie,0,1,False,Away Win,Egypt,Algeria,North Africa,North Africa,No,5,250,-245,2637.0,Arid
+2010-07-31,2010,CAF Champions League,Group Stage,Esperance de Tunis,Dynamos,1,0,False,Home Win,Tunisia,Zimbabwe,North Africa,Southern Africa,Yes,10,1490,-1480,6458.0,Mediterranean
+2010-07-31,2010,CAF Champions League,Group Stage,JS Kabylie,Heartland,1,0,False,Home Win,Algeria,Nigeria,North Africa,West Africa,Yes,250,80,170,3469.0,Mediterranean
+2010-08-01,2010,CAF Champions League,Group Stage,TP Mazembe,ES Setif,2,2,False,Draw,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,1096,154,5802.4,Tropical
+2010-08-01,2010,CAF Champions League,Group Stage,Al Ahly,Ismaily,2,1,False,Home Win,Egypt,Egypt,North Africa,North Africa,No,23,5,18,114.6,Arid
+2010-08-15,2010,CAF Champions League,Group Stage,TP Mazembe,Esperance de Tunis,2,1,False,Home Win,DR Congo,Tunisia,Central Africa,North Africa,Yes,1250,10,1240,5685.2,Tropical
+2010-08-15,2010,CAF Champions League,Group Stage,Dynamos,ES Setif,1,0,False,Home Win,Zimbabwe,Algeria,Southern Africa,North Africa,Yes,1490,1096,394,6584.1,Tropical
+2010-08-15,2010,CAF Champions League,Group Stage,Ismaily,Heartland,1,0,False,Home Win,Egypt,Nigeria,North Africa,West Africa,Yes,5,80,-75,3833.8,Arid
+2010-08-15,2010,CAF Champions League,Group Stage,JS Kabylie,Al Ahly,1,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,250,23,227,2570.0,Mediterranean
+2010-08-27,2010,CAF Champions League,Group Stage,ES Setif,Dynamos,3,0,False,Home Win,Algeria,Zimbabwe,North Africa,Southern Africa,Yes,1096,1490,-394,6584.1,Semi-Arid
+2010-08-28,2010,CAF Champions League,Group Stage,Esperance de Tunis,TP Mazembe,3,0,False,Home Win,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,5685.2,Mediterranean
+2010-08-28,2010,CAF Champions League,Group Stage,Al Ahly,JS Kabylie,1,1,False,Draw,Egypt,Algeria,North Africa,North Africa,No,23,250,-227,2570.0,Arid
+2010-08-29,2010,CAF Champions League,Group Stage,Heartland,Ismaily,2,1,False,Home Win,Nigeria,Egypt,West Africa,North Africa,Yes,80,5,75,3833.8,Tropical
+2010-09-10,2010,CAF Champions League,Group Stage,JS Kabylie,Ismaily,1,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,250,5,245,2637.0,Mediterranean
+2010-09-11,2010,CAF Champions League,Group Stage,Esperance de Tunis,ES Setif,2,2,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,10,1096,-1086,431.9,Mediterranean
+2010-09-12,2010,CAF Champions League,Group Stage,TP Mazembe,Dynamos,2,1,False,Home Win,DR Congo,Zimbabwe,Central Africa,Southern Africa,Yes,1250,1490,-240,786.0,Tropical
+2010-09-12,2010,CAF Champions League,Group Stage,Al Ahly,Heartland,2,1,False,Home Win,Egypt,Nigeria,North Africa,West Africa,Yes,23,80,-57,3721.1,Arid
+2010-09-18,2010,CAF Champions League,Group Stage,ES Setif,TP Mazembe,0,0,False,Draw,Algeria,DR Congo,North Africa,Central Africa,Yes,1096,1250,-154,5802.4,Semi-Arid
+2010-09-18,2010,CAF Champions League,Group Stage,Dynamos,Esperance de Tunis,0,1,False,Away Win,Zimbabwe,Tunisia,Southern Africa,North Africa,Yes,1490,10,1480,6458.0,Tropical
+2010-09-19,2010,CAF Champions League,Group Stage,Heartland,JS Kabylie,1,1,False,Draw,Nigeria,Algeria,West Africa,North Africa,Yes,80,250,-170,3469.0,Tropical
+2010-09-19,2010,CAF Champions League,Group Stage,Ismaily,Al Ahly,4,2,False,Home Win,Egypt,Egypt,North Africa,North Africa,No,5,23,-18,114.6,Arid
+2010-10-03,2010,CAF Champions League,Semi-final,TP Mazembe,JS Kabylie,3,1,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,250,1000,5885.4,Tropical
+2010-10-03,2010,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,2,1,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2010-10-17,2010,CAF Champions League,Semi-final,JS Kabylie,TP Mazembe,0,0,False,Draw,Algeria,DR Congo,North Africa,Central Africa,Yes,250,1250,-1000,5885.4,Mediterranean
+2010-10-17,2010,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,1,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2010-10-31,2010,CAF Champions League,Final,TP Mazembe,Esperance de Tunis,5,0,False,Home Win,DR Congo,Tunisia,Central Africa,North Africa,Yes,1250,10,1240,5685.2,Tropical
+2010-11-13,2010,CAF Champions League,Final,Esperance de Tunis,TP Mazembe,1,1,False,Draw,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,5685.2,Mediterranean
+2011-07-16,2011,CAF Champions League,Group Stage,Raja Casablanca,Cotonsport,0,0,False,Draw,Morocco,Cameroon,North Africa,Central Africa,Yes,56,358,-302,3507.7,Mediterranean
+2011-07-16,2011,CAF Champions League,Group Stage,MC Alger,Esperance de Tunis,1,1,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,424,10,414,631.8,Mediterranean
+2011-07-17,2011,CAF Champions League,Group Stage,Enyimba,Al Hilal,2,2,False,Draw,Nigeria,Sudan,West Africa,East Africa,Yes,55,380,-325,2931.6,Tropical
+2011-07-17,2011,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,3,3,False,Draw,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2011-07-29,2011,CAF Champions League,Group Stage,Al Hilal,Raja Casablanca,1,0,False,Home Win,Sudan,Morocco,East Africa,North Africa,Yes,380,56,324,4492.9,Arid
+2011-07-30,2011,CAF Champions League,Group Stage,Cotonsport,Enyimba,2,3,False,Away Win,Cameroon,Nigeria,Central Africa,West Africa,Yes,358,55,303,849.9,Tropical
+2011-07-30,2011,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly,1,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2011-07-30,2011,CAF Champions League,Group Stage,Wydad Casablanca,MC Alger,4,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,424,-368,1031.7,Mediterranean
+2011-08-12,2011,CAF Champions League,Group Stage,Al Ahly,MC Alger,2,0,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2011-08-14,2011,CAF Champions League,Group Stage,Al Hilal,Cotonsport,2,1,False,Home Win,Sudan,Cameroon,East Africa,Central Africa,Yes,380,358,22,2096.4,Arid
+2011-08-14,2011,CAF Champions League,Group Stage,Enyimba,Raja Casablanca,2,0,False,Home Win,Nigeria,Morocco,West Africa,North Africa,Yes,55,56,-1,3556.3,Tropical
+2011-08-15,2011,CAF Champions League,Group Stage,Wydad Casablanca,Esperance de Tunis,2,2,False,Draw,Morocco,Tunisia,North Africa,North Africa,No,56,10,46,1651.8,Mediterranean
+2011-08-27,2011,CAF Champions League,Group Stage,Raja Casablanca,Enyimba,0,0,False,Draw,Morocco,Nigeria,North Africa,West Africa,Yes,56,55,1,3556.3,Mediterranean
+2011-08-27,2011,CAF Champions League,Group Stage,Esperance de Tunis,Wydad Casablanca,0,0,False,Draw,Tunisia,Morocco,North Africa,North Africa,No,10,56,-46,1651.8,Mediterranean
+2011-08-28,2011,CAF Champions League,Group Stage,Cotonsport,Al Hilal,2,0,False,Home Win,Cameroon,Sudan,Central Africa,East Africa,Yes,358,380,-22,2096.4,Tropical
+2011-08-28,2011,CAF Champions League,Group Stage,MC Alger,Al Ahly,0,0,False,Draw,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2011-09-09,2011,CAF Champions League,Group Stage,Al Hilal,Enyimba,1,2,False,Away Win,Sudan,Nigeria,East Africa,West Africa,Yes,380,55,325,2931.6,Arid
+2011-09-10,2011,CAF Champions League,Group Stage,Cotonsport,Raja Casablanca,2,1,False,Home Win,Cameroon,Morocco,Central Africa,North Africa,Yes,358,56,302,3507.7,Tropical
+2011-09-10,2011,CAF Champions League,Group Stage,Esperance de Tunis,MC Alger,4,0,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,424,-414,631.8,Mediterranean
+2011-09-11,2011,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,1,1,False,Draw,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2011-09-16,2011,CAF Champions League,Group Stage,Al Ahly,Esperance de Tunis,1,1,False,Draw,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2011-09-16,2011,CAF Champions League,Group Stage,MC Alger,Wydad Casablanca,3,1,False,Home Win,Algeria,Morocco,North Africa,North Africa,No,424,56,368,1031.7,Mediterranean
+2011-09-18,2011,CAF Champions League,Group Stage,Enyimba,Cotonsport,2,0,False,Home Win,Nigeria,Cameroon,West Africa,Central Africa,Yes,55,358,-303,849.9,Tropical
+2011-09-18,2011,CAF Champions League,Group Stage,Raja Casablanca,Al Hilal,0,0,False,Draw,Morocco,Sudan,North Africa,East Africa,Yes,56,380,-324,4492.9,Mediterranean
+2011-10-01,2011,CAF Champions League,Semi-final,Wydad Casablanca,Enyimba,1,0,False,Home Win,Morocco,Nigeria,North Africa,West Africa,Yes,56,55,1,3556.3,Mediterranean
+2011-10-02,2011,CAF Champions League,Semi-final,Al Hilal,Esperance de Tunis,0,1,False,Away Win,Sudan,Tunisia,East Africa,North Africa,Yes,380,10,370,3238.7,Arid
+2011-10-15,2011,CAF Champions League,Semi-final,Esperance de Tunis,Al Hilal,2,0,False,Home Win,Tunisia,Sudan,North Africa,East Africa,Yes,10,380,-370,3238.7,Mediterranean
+2011-10-16,2011,CAF Champions League,Semi-final,Enyimba,Wydad Casablanca,0,0,False,Draw,Nigeria,Morocco,West Africa,North Africa,Yes,55,56,-1,3556.3,Tropical
+2011-11-06,2011,CAF Champions League,Final,Wydad Casablanca,Esperance de Tunis,0,0,False,Draw,Morocco,Tunisia,North Africa,North Africa,No,56,10,46,1651.8,Mediterranean
+2011-11-12,2011,CAF Champions League,Final,Esperance de Tunis,Wydad Casablanca,1,0,False,Home Win,Tunisia,Morocco,North Africa,North Africa,No,10,56,-46,1651.8,Mediterranean
+2012-01-21,2012,African Cup of Nations,Group Stage,Equatorial Guinea,Libya,1,0,False,Home Win,Equatorial Guinea,Libya,Central Africa,North Africa,Yes,30,47,-17,,Tropical
+2012-01-23,2012,African Cup of Nations,Group Stage,Gabon,Niger,2,0,False,Home Win,Gabon,Niger,Central Africa,West Africa,Yes,30,223,-193,,Tropical
+2012-01-25,2012,African Cup of Nations,Group Stage,Equatorial Guinea,Senegal,2,1,False,Home Win,Equatorial Guinea,Senegal,Central Africa,West Africa,Yes,30,10,20,,Tropical
+2012-01-27,2012,African Cup of Nations,Group Stage,Gabon,Morocco,3,2,False,Home Win,Gabon,Morocco,Central Africa,North Africa,Yes,30,495,-465,,Tropical
+2012-01-29,2012,African Cup of Nations,Group Stage,Equatorial Guinea,Zambia,0,1,False,Away Win,Equatorial Guinea,Zambia,Central Africa,Southern Africa,Yes,30,1279,-1249,,Tropical
+2012-01-31,2012,African Cup of Nations,Group Stage,Gabon,Tunisia,1,0,False,Home Win,Gabon,Tunisia,Central Africa,North Africa,Yes,30,10,20,,Tropical
+2012-02-04,2012,African Cup of Nations,Quarter-final,Equatorial Guinea,Ivory Coast,0,3,False,Away Win,Equatorial Guinea,Ivory Coast,Central Africa,West Africa,Yes,30,20,10,,Tropical
+2012-02-05,2012,African Cup of Nations,Quarter-final,Gabon,Mali,1,1,False,Draw,Gabon,Mali,Central Africa,West Africa,Yes,30,370,-340,,Tropical
+2012-07-07,2012,CAF Champions League,Group Stage,Berekum Chelsea,Zamalek,3,2,False,Home Win,Ghana,Egypt,West Africa,North Africa,Yes,310,23,287,4329.9,Tropical
+2012-07-08,2012,CAF Champions League,Group Stage,Sunshine Stars,Esperance de Tunis,0,2,False,Away Win,Nigeria,Tunisia,West Africa,North Africa,Yes,150,10,140,3294.7,Tropical
+2012-07-08,2012,CAF Champions League,Group Stage,Al Ahly,TP Mazembe,2,1,False,Home Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4657.0,Arid
+2012-07-17,2012,CAF Champions League,Group Stage,ASO Chlef,Sunshine Stars,1,2,False,Away Win,Algeria,Nigeria,North Africa,West Africa,Yes,148,150,-2,3208.9,Semi-Arid
+2012-07-20,2012,CAF Champions League,Group Stage,Esperance de Tunis,ASO Chlef,3,2,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,148,-138,794.1,Mediterranean
+2012-07-22,2012,CAF Champions League,Group Stage,TP Mazembe,Berekum Chelsea,2,2,False,Draw,DR Congo,Ghana,Central Africa,West Africa,Yes,1250,310,940,3945.9,Tropical
+2012-07-22,2012,CAF Champions League,Group Stage,Zamalek,Al Ahly,0,1,False,Away Win,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2012-08-04,2012,CAF Champions League,Group Stage,TP Mazembe,Zamalek,2,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4657.0,Tropical
+2012-08-04,2012,CAF Champions League,Group Stage,Al Ahly,Berekum Chelsea,4,1,False,Home Win,Egypt,Ghana,North Africa,West Africa,Yes,23,310,-287,4329.9,Arid
+2012-08-05,2012,CAF Champions League,Group Stage,Sunshine Stars,ASO Chlef,2,0,False,Home Win,Nigeria,Algeria,West Africa,North Africa,Yes,150,148,2,3208.9,Tropical
+2012-08-19,2012,CAF Champions League,Group Stage,Berekum Chelsea,Al Ahly,1,1,False,Draw,Ghana,Egypt,West Africa,North Africa,Yes,310,23,287,4329.9,Tropical
+2012-08-19,2012,CAF Champions League,Group Stage,Zamalek,TP Mazembe,1,2,False,Away Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4657.0,Arid
+2012-09-01,2012,CAF Champions League,Group Stage,Zamalek,Berekum Chelsea,1,1,False,Draw,Egypt,Ghana,North Africa,West Africa,Yes,23,310,-287,4329.9,Arid
+2012-09-02,2012,CAF Champions League,Group Stage,Esperance de Tunis,Sunshine Stars,1,0,False,Home Win,Tunisia,Nigeria,North Africa,West Africa,Yes,10,150,-140,3294.7,Mediterranean
+2012-09-02,2012,CAF Champions League,Group Stage,TP Mazembe,Al Ahly,2,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4657.0,Tropical
+2012-09-14,2012,CAF Champions League,Group Stage,ASO Chlef,Esperance de Tunis,1,0,False,Home Win,Algeria,Tunisia,North Africa,North Africa,No,148,10,138,794.1,Semi-Arid
+2012-09-16,2012,CAF Champions League,Group Stage,Berekum Chelsea,TP Mazembe,1,0,False,Home Win,Ghana,DR Congo,West Africa,Central Africa,Yes,310,1250,-940,3945.9,Tropical
+2012-09-16,2012,CAF Champions League,Group Stage,Al Ahly,Zamalek,1,1,False,Draw,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2012-10-06,2012,CAF Champions League,Semi-final,Sunshine Stars,Al Ahly,3,3,False,Draw,Nigeria,Egypt,West Africa,North Africa,Yes,150,23,127,3694.4,Tropical
+2012-10-07,2012,CAF Champions League,Semi-final,TP Mazembe,Esperance de Tunis,0,0,False,Draw,DR Congo,Tunisia,Central Africa,North Africa,Yes,1250,10,1240,5685.2,Tropical
+2012-10-20,2012,CAF Champions League,Semi-final,Esperance de Tunis,TP Mazembe,1,0,False,Home Win,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,5685.2,Mediterranean
+2012-10-21,2012,CAF Champions League,Semi-final,Al Ahly,Sunshine Stars,1,0,False,Home Win,Egypt,Nigeria,North Africa,West Africa,Yes,23,150,-127,3694.4,Arid
+2012-11-04,2012,CAF Champions League,Final,Al Ahly,Esperance de Tunis,1,1,False,Draw,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2012-11-17,2012,CAF Champions League,Final,Esperance de Tunis,Al Ahly,1,2,False,Away Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2013-01-19,2013,African Cup of Nations,Group Stage,South Africa,Cape Verde,0,0,False,Draw,South Africa,Cape Verde,Southern Africa,West Africa,Yes,1753,40,1713,,Semi-Arid
+2013-01-23,2013,African Cup of Nations,Group Stage,South Africa,Angola,2,0,False,Home Win,South Africa,Angola,Southern Africa,Southern Africa,No,1753,60,1693,,Semi-Arid
+2013-01-27,2013,African Cup of Nations,Group Stage,South Africa,Morocco,2,2,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1753,495,1258,,Semi-Arid
+2013-02-02,2013,African Cup of Nations,Quarter-final,South Africa,Mali,1,1,False,Draw,South Africa,Mali,Southern Africa,West Africa,Yes,1753,370,1383,,Semi-Arid
+2013-07-20,2013,CAF Champions League,Group Stage,Orlando Pirates,AC Leopards,0,0,False,Draw,South Africa,Congo,Southern Africa,Central Africa,Yes,1753,330,1423,2841.9,Semi-Arid
+2013-07-21,2013,CAF Champions League,Group Stage,Recreativo Libolo,Esperance de Tunis,1,0,False,Home Win,Angola,Tunisia,Southern Africa,North Africa,Yes,1100,10,1090,5302.9,Tropical
+2013-07-24,2013,CAF Champions League,Group Stage,Zamalek,Al Ahly,1,1,False,Draw,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2013-08-03,2013,CAF Champions League,Group Stage,Sewe Sport,Recreativo Libolo,3,1,False,Home Win,Ivory Coast,Angola,West Africa,Southern Africa,Yes,20,1100,-1080,2731.8,Tropical
+2013-08-03,2013,CAF Champions League,Group Stage,Esperance de Tunis,Cotonsport,2,0,False,Home Win,Tunisia,Cameroon,North Africa,Central Africa,Yes,10,358,-348,3086.8,Mediterranean
+2013-08-04,2013,CAF Champions League,Group Stage,AC Leopards,Zamalek,1,0,False,Home Win,Congo,Egypt,Central Africa,North Africa,Yes,330,23,307,4178.3,Tropical
+2013-08-04,2013,CAF Champions League,Group Stage,Al Ahly,Orlando Pirates,0,3,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,6265.9,Arid
+2013-08-11,2013,CAF Champions League,Group Stage,Cotonsport,Sewe Sport,1,0,False,Home Win,Cameroon,Ivory Coast,Central Africa,West Africa,Yes,358,20,338,2068.6,Tropical
+2013-08-17,2013,CAF Champions League,Group Stage,AC Leopards,Al Ahly,0,1,False,Away Win,Congo,Egypt,Central Africa,North Africa,Yes,330,23,307,4178.3,Tropical
+2013-08-17,2013,CAF Champions League,Group Stage,Orlando Pirates,Zamalek,4,1,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1753,23,1730,6265.9,Semi-Arid
+2013-08-18,2013,CAF Champions League,Group Stage,Cotonsport,Recreativo Libolo,2,1,False,Home Win,Cameroon,Angola,Central Africa,Southern Africa,Yes,358,1100,-742,2223.9,Tropical
+2013-08-18,2013,CAF Champions League,Group Stage,Sewe Sport,Esperance de Tunis,0,1,False,Away Win,Ivory Coast,Tunisia,West Africa,North Africa,Yes,20,10,10,3784.8,Tropical
+2013-08-31,2013,CAF Champions League,Group Stage,Al Ahly,AC Leopards,2,1,False,Home Win,Egypt,Congo,North Africa,Central Africa,Yes,23,330,-307,4178.3,Arid
+2013-08-31,2013,CAF Champions League,Group Stage,Esperance de Tunis,Sewe Sport,1,0,False,Home Win,Tunisia,Ivory Coast,North Africa,West Africa,Yes,10,20,-10,3784.8,Mediterranean
+2013-09-01,2013,CAF Champions League,Group Stage,Zamalek,Orlando Pirates,2,1,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,6265.9,Arid
+2013-09-01,2013,CAF Champions League,Group Stage,Recreativo Libolo,Cotonsport,1,1,False,Draw,Angola,Cameroon,Southern Africa,Central Africa,Yes,1100,358,742,2223.9,Tropical
+2013-09-14,2013,CAF Champions League,Group Stage,AC Leopards,Orlando Pirates,1,0,False,Home Win,Congo,South Africa,Central Africa,Southern Africa,Yes,330,1753,-1423,2841.9,Tropical
+2013-09-14,2013,CAF Champions League,Group Stage,Esperance de Tunis,Recreativo Libolo,3,2,False,Home Win,Tunisia,Angola,North Africa,Southern Africa,Yes,10,1100,-1090,5302.9,Mediterranean
+2013-09-15,2013,CAF Champions League,Group Stage,Al Ahly,Zamalek,4,2,False,Home Win,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2013-09-15,2013,CAF Champions League,Group Stage,Sewe Sport,Cotonsport,0,0,False,Draw,Ivory Coast,Cameroon,West Africa,Central Africa,Yes,20,358,-338,2068.6,Tropical
+2013-09-21,2013,CAF Champions League,Group Stage,Cotonsport,Esperance de Tunis,1,2,False,Away Win,Cameroon,Tunisia,Central Africa,North Africa,Yes,358,10,348,3086.8,Tropical
+2013-09-21,2013,CAF Champions League,Group Stage,Recreativo Libolo,Sewe Sport,2,2,False,Draw,Angola,Ivory Coast,Southern Africa,West Africa,Yes,1100,20,1080,2731.8,Tropical
+2013-09-22,2013,CAF Champions League,Group Stage,Orlando Pirates,Al Ahly,0,0,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1753,23,1730,6265.9,Semi-Arid
+2013-09-22,2013,CAF Champions League,Group Stage,Zamalek,AC Leopards,4,1,False,Home Win,Egypt,Congo,North Africa,Central Africa,Yes,23,330,-307,4178.3,Arid
+2013-10-05,2013,CAF Champions League,Semi-final,Orlando Pirates,Esperance de Tunis,0,0,False,Draw,South Africa,Tunisia,Southern Africa,North Africa,Yes,1753,10,1743,7251.8,Semi-Arid
+2013-10-06,2013,CAF Champions League,Semi-final,Cotonsport,Al Ahly,1,1,False,Draw,Cameroon,Egypt,Central Africa,North Africa,Yes,358,23,335,2902.2,Tropical
+2013-10-19,2013,CAF Champions League,Semi-final,Esperance de Tunis,Orlando Pirates,1,1,False,Draw,Tunisia,South Africa,North Africa,Southern Africa,Yes,10,1753,-1743,7251.8,Mediterranean
+2013-10-20,2013,CAF Champions League,Semi-final,Al Ahly,Cotonsport,1,1,False,Draw,Egypt,Cameroon,North Africa,Central Africa,Yes,23,358,-335,2902.2,Arid
+2013-11-02,2013,CAF Champions League,Final,Orlando Pirates,Al Ahly,1,1,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1753,23,1730,6265.9,Semi-Arid
+2013-11-10,2013,CAF Champions League,Final,Al Ahly,Orlando Pirates,2,0,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,6265.9,Arid
+2014-05-16,2014,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,1,0,False,Home Win,Sudan,DR Congo,East Africa,Central Africa,Yes,380,1250,-870,3071.6,Arid
+2014-05-17,2014,CAF Champions League,Group Stage,Esperance de Tunis,ES Setif,1,2,False,Away Win,Tunisia,Algeria,North Africa,North Africa,No,10,1096,-1086,431.9,Mediterranean
+2014-05-18,2014,CAF Champions League,Group Stage,AS Vita Club,Zamalek,2,1,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,320,23,297,4183.6,Tropical
+2014-05-18,2014,CAF Champions League,Group Stage,CS Sfaxien,Al Ahly Benghazi,3,1,False,Home Win,Tunisia,Libya,North Africa,North Africa,No,15,47,-32,911.1,Mediterranean
+2014-05-24,2014,CAF Champions League,Group Stage,Zamalek,Al Hilal,2,1,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2014-05-24,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,Esperance de Tunis,3,2,False,Home Win,Libya,Tunisia,North Africa,North Africa,No,47,10,37,1044.8,Arid
+2014-05-25,2014,CAF Champions League,Group Stage,TP Mazembe,AS Vita Club,1,0,False,Home Win,DR Congo,DR Congo,Central Africa,Central Africa,No,1250,320,930,1566.4,Tropical
+2014-05-25,2014,CAF Champions League,Group Stage,ES Setif,CS Sfaxien,1,1,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,1096,15,1081,510.5,Semi-Arid
+2014-06-06,2014,CAF Champions League,Group Stage,Al Hilal,AS Vita Club,1,1,False,Draw,Sudan,DR Congo,East Africa,Central Africa,Yes,380,320,60,2909.4,Arid
+2014-06-07,2014,CAF Champions League,Group Stage,ES Setif,Al Ahly Benghazi,1,1,False,Draw,Algeria,Libya,North Africa,North Africa,No,1096,47,1049,1420.9,Semi-Arid
+2014-06-08,2014,CAF Champions League,Group Stage,TP Mazembe,Zamalek,1,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4657.0,Tropical
+2014-06-08,2014,CAF Champions League,Group Stage,Esperance de Tunis,CS Sfaxien,2,1,False,Home Win,Tunisia,Tunisia,North Africa,North Africa,No,10,15,-5,235.6,Mediterranean
+2014-07-25,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,ES Setif,0,2,False,Away Win,Libya,Algeria,North Africa,North Africa,No,47,1096,-1049,1420.9,Arid
+2014-07-26,2014,CAF Champions League,Group Stage,CS Sfaxien,Esperance de Tunis,1,0,False,Home Win,Tunisia,Tunisia,North Africa,North Africa,No,15,10,5,235.6,Mediterranean
+2014-07-27,2014,CAF Champions League,Group Stage,AS Vita Club,Al Hilal,2,1,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,320,380,-60,2909.4,Tropical
+2014-07-27,2014,CAF Champions League,Group Stage,Zamalek,TP Mazembe,0,0,False,Draw,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4657.0,Arid
+2014-08-08,2014,CAF Champions League,Group Stage,Al Ahly Benghazi,CS Sfaxien,0,1,False,Away Win,Libya,Tunisia,North Africa,North Africa,No,47,15,32,911.1,Arid
+2014-08-09,2014,CAF Champions League,Group Stage,ES Setif,Esperance de Tunis,2,2,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,1096,10,1086,431.9,Semi-Arid
+2014-08-10,2014,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,3,1,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2014-08-10,2014,CAF Champions League,Group Stage,Zamalek,AS Vita Club,0,1,False,Away Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,320,-297,4183.6,Arid
+2014-08-22,2014,CAF Champions League,Group Stage,Al Hilal,Zamalek,2,1,False,Home Win,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2014-08-23,2014,CAF Champions League,Group Stage,CS Sfaxien,ES Setif,1,1,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,15,1096,-1081,510.5,Mediterranean
+2014-08-24,2014,CAF Champions League,Group Stage,AS Vita Club,TP Mazembe,0,0,False,Draw,DR Congo,DR Congo,Central Africa,Central Africa,No,320,1250,-930,1566.4,Tropical
+2014-08-24,2014,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly Benghazi,1,0,False,Home Win,Tunisia,Libya,North Africa,North Africa,No,10,47,-37,1044.8,Mediterranean
+2014-09-20,2014,CAF Champions League,Semi-final,ES Setif,TP Mazembe,2,1,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,1096,1250,-154,5802.4,Semi-Arid
+2014-09-21,2014,CAF Champions League,Semi-final,AS Vita Club,CS Sfaxien,2,1,False,Home Win,DR Congo,Tunisia,Central Africa,North Africa,Yes,320,15,305,4370.8,Tropical
+2014-09-27,2014,CAF Champions League,Semi-final,CS Sfaxien,AS Vita Club,1,2,False,Away Win,Tunisia,DR Congo,North Africa,Central Africa,Yes,15,320,-305,4370.8,Mediterranean
+2014-09-28,2014,CAF Champions League,Semi-final,TP Mazembe,ES Setif,3,2,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,1096,154,5802.4,Tropical
+2014-10-26,2014,CAF Champions League,Final,AS Vita Club,ES Setif,2,2,False,Draw,DR Congo,Algeria,Central Africa,North Africa,Yes,320,1096,-776,4622.3,Tropical
+2014-11-01,2014,CAF Champions League,Final,ES Setif,AS Vita Club,1,1,False,Draw,Algeria,DR Congo,North Africa,Central Africa,Yes,1096,320,776,4622.3,Semi-Arid
+2015-01-17,2015,African Cup of Nations,Group Stage,Equatorial Guinea,Congo,1,1,False,Draw,Equatorial Guinea,Congo,Central Africa,Central Africa,No,30,320,-290,,Tropical
+2015-01-21,2015,African Cup of Nations,Group Stage,Equatorial Guinea,Burkina Faso,0,0,False,Draw,Equatorial Guinea,Burkina Faso,Central Africa,West Africa,Yes,30,310,-280,,Tropical
+2015-01-25,2015,African Cup of Nations,Group Stage,Equatorial Guinea,Gabon,2,0,False,Home Win,Equatorial Guinea,Gabon,Central Africa,Central Africa,No,30,30,0,,Tropical
+2015-01-31,2015,African Cup of Nations,Quarter-final,Equatorial Guinea,Tunisia,2,1,False,Home Win,Equatorial Guinea,Tunisia,Central Africa,North Africa,Yes,30,10,20,,Tropical
+2015-02-05,2015,African Cup of Nations,Semi-final,Equatorial Guinea,Ghana,0,3,False,Away Win,Equatorial Guinea,Ghana,Central Africa,West Africa,Yes,30,61,-31,,Tropical
+2015-02-07,2015,African Cup of Nations,3rd place,Equatorial Guinea,DR Congo,0,0,False,Draw,Equatorial Guinea,DR Congo,Central Africa,Central Africa,No,30,320,-290,,Tropical
+2015-06-26,2015,CAF Champions League,Group Stage,Al Merreikh,MC El Eulma,2,0,False,Home Win,Sudan,Algeria,East Africa,North Africa,Yes,380,960,-580,3514.0,Arid
+2015-06-27,2015,CAF Champions League,Group Stage,ES Setif,USM Alger,1,2,False,Away Win,Algeria,Algeria,North Africa,North Africa,No,1096,424,672,216.6,Semi-Arid
+2015-06-28,2015,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,0,0,False,Draw,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2015-06-28,2015,CAF Champions League,Group Stage,Smouha,MA Tetouan,3,2,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,10,5,5,3297.1,Arid
+2015-07-10,2015,CAF Champions League,Group Stage,USM Alger,Al Merreikh,1,0,False,Home Win,Algeria,Sudan,North Africa,East Africa,Yes,424,380,44,3745.0,Mediterranean
+2015-07-11,2015,CAF Champions League,Group Stage,MC El Eulma,ES Setif,0,1,False,Away Win,Algeria,Algeria,North Africa,North Africa,No,960,1096,-136,24.9,Semi-Arid
+2015-07-12,2015,CAF Champions League,Group Stage,Al Hilal,Smouha,2,0,False,Home Win,Sudan,Egypt,East Africa,North Africa,Yes,380,10,370,1767.3,Arid
+2015-07-12,2015,CAF Champions League,Group Stage,MA Tetouan,TP Mazembe,0,0,False,Draw,Morocco,DR Congo,North Africa,Central Africa,Yes,5,1250,-1245,6285.2,Mediterranean
+2015-07-24,2015,CAF Champions League,Group Stage,Smouha,TP Mazembe,0,2,False,Away Win,Egypt,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,4775.0,Arid
+2015-07-24,2015,CAF Champions League,Group Stage,USM Alger,MC El Eulma,2,1,False,Home Win,Algeria,Algeria,North Africa,North Africa,No,424,960,-536,241.3,Mediterranean
+2015-07-25,2015,CAF Champions League,Group Stage,ES Setif,Al Merreikh,1,1,False,Draw,Algeria,Sudan,North Africa,East Africa,Yes,1096,380,716,3536.8,Semi-Arid
+2015-07-26,2015,CAF Champions League,Group Stage,MA Tetouan,Al Hilal,1,1,False,Draw,Morocco,Sudan,North Africa,East Africa,Yes,5,380,-375,4371.5,Mediterranean
+2015-08-07,2015,CAF Champions League,Group Stage,Al Hilal,MA Tetouan,0,1,False,Away Win,Sudan,Morocco,East Africa,North Africa,Yes,380,5,375,4371.5,Arid
+2015-08-07,2015,CAF Champions League,Group Stage,MC El Eulma,USM Alger,0,1,False,Away Win,Algeria,Algeria,North Africa,North Africa,No,960,424,536,241.3,Semi-Arid
+2015-08-08,2015,CAF Champions League,Group Stage,TP Mazembe,Smouha,1,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,10,1240,4775.0,Tropical
+2015-08-09,2015,CAF Champions League,Group Stage,Al Merreikh,ES Setif,2,0,False,Home Win,Sudan,Algeria,East Africa,North Africa,Yes,380,1096,-716,3536.8,Arid
+2015-08-21,2015,CAF Champions League,Group Stage,USM Alger,ES Setif,3,0,False,Home Win,Algeria,Algeria,North Africa,North Africa,No,424,1096,-672,216.6,Mediterranean
+2015-08-22,2015,CAF Champions League,Group Stage,MC El Eulma,Al Merreikh,2,3,False,Away Win,Algeria,Sudan,North Africa,East Africa,Yes,960,380,580,3514.0,Semi-Arid
+2015-08-23,2015,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,1,0,False,Home Win,Sudan,DR Congo,East Africa,Central Africa,Yes,380,1250,-870,3071.6,Arid
+2015-08-23,2015,CAF Champions League,Group Stage,MA Tetouan,Smouha,2,1,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,5,10,-5,3297.1,Mediterranean
+2015-09-11,2015,CAF Champions League,Group Stage,Al Merreikh,USM Alger,1,0,False,Home Win,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2015-09-11,2015,CAF Champions League,Group Stage,ES Setif,MC El Eulma,2,2,False,Draw,Algeria,Algeria,North Africa,North Africa,No,1096,960,136,24.9,Semi-Arid
+2015-09-12,2015,CAF Champions League,Group Stage,Smouha,Al Hilal,1,1,False,Draw,Egypt,Sudan,North Africa,East Africa,Yes,10,380,-370,1767.3,Arid
+2015-09-12,2015,CAF Champions League,Group Stage,TP Mazembe,MA Tetouan,5,0,False,Home Win,DR Congo,Morocco,Central Africa,North Africa,Yes,1250,5,1245,6285.2,Tropical
+2015-09-26,2015,CAF Champions League,Semi-final,Al Merreikh,TP Mazembe,2,1,False,Home Win,Sudan,DR Congo,East Africa,Central Africa,Yes,380,1250,-870,3071.6,Arid
+2015-09-27,2015,CAF Champions League,Semi-final,Al Hilal,USM Alger,1,2,False,Away Win,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2015-10-03,2015,CAF Champions League,Semi-final,USM Alger,Al Hilal,0,0,False,Draw,Algeria,Sudan,North Africa,East Africa,Yes,424,380,44,3745.0,Mediterranean
+2015-10-04,2015,CAF Champions League,Semi-final,TP Mazembe,Al Merreikh,3,0,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2015-10-31,2015,CAF Champions League,Final,USM Alger,TP Mazembe,1,2,False,Away Win,Algeria,DR Congo,North Africa,Central Africa,Yes,424,1250,-826,5956.3,Mediterranean
+2015-11-08,2015,CAF Champions League,Final,TP Mazembe,USM Alger,2,0,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,424,826,5956.3,Tropical
+2016-06-18,2016,CAF Champions League,Group Stage,Zesco United,Al Ahly,3,2,False,Home Win,Zambia,Egypt,Southern Africa,North Africa,Yes,1280,23,1257,4777.5,Tropical
+2016-06-18,2016,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,0,1,False,Away Win,Ivory Coast,Morocco,West Africa,North Africa,Yes,20,56,-36,3160.1,Tropical
+2016-06-19,2016,CAF Champions League,Group Stage,Enyimba,Zamalek,0,1,False,Away Win,Nigeria,Egypt,West Africa,North Africa,Yes,55,23,32,3705.0,Tropical
+2016-06-28,2016,CAF Champions League,Group Stage,Al Ahly,ASEC Mimosas,1,2,False,Away Win,Egypt,Ivory Coast,North Africa,West Africa,Yes,23,20,3,4602.0,Arid
+2016-06-29,2016,CAF Champions League,Group Stage,Wydad Casablanca,Zesco United,2,0,False,Home Win,Morocco,Zambia,North Africa,Southern Africa,Yes,56,1280,-1224,6400.5,Mediterranean
+2016-06-29,2016,CAF Champions League,Group Stage,Mamelodi Sundowns,Enyimba,2,1,False,Home Win,South Africa,Nigeria,Southern Africa,West Africa,Yes,1340,55,1285,4063.4,Semi-Arid
+2016-07-16,2016,CAF Champions League,Group Stage,Zesco United,ASEC Mimosas,3,1,False,Home Win,Zambia,Ivory Coast,Southern Africa,West Africa,Yes,1280,20,1260,4092.9,Tropical
+2016-07-16,2016,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,0,0,False,Draw,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2016-07-17,2016,CAF Champions League,Group Stage,Zamalek,Mamelodi Sundowns,1,2,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2016-07-27,2016,CAF Champions League,Group Stage,ASEC Mimosas,Zesco United,1,1,False,Draw,Ivory Coast,Zambia,West Africa,Southern Africa,Yes,20,1280,-1260,4092.9,Tropical
+2016-07-27,2016,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,0,1,False,Away Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2016-07-27,2016,CAF Champions League,Group Stage,Mamelodi Sundowns,Zamalek,1,0,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2016-08-12,2016,CAF Champions League,Group Stage,Al Ahly,Zesco United,2,2,False,Draw,Egypt,Zambia,North Africa,Southern Africa,Yes,23,1280,-1257,4777.5,Arid
+2016-08-14,2016,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,2,1,False,Home Win,Morocco,Ivory Coast,North Africa,West Africa,Yes,56,20,36,3160.1,Mediterranean
+2016-08-15,2016,CAF Champions League,Group Stage,Zamalek,Enyimba,1,0,False,Home Win,Egypt,Nigeria,North Africa,West Africa,Yes,23,55,-32,3705.0,Arid
+2016-08-23,2016,CAF Champions League,Group Stage,Enyimba,Mamelodi Sundowns,3,1,False,Home Win,Nigeria,South Africa,West Africa,Southern Africa,Yes,55,1340,-1285,4063.4,Tropical
+2016-08-24,2016,CAF Champions League,Group Stage,ASEC Mimosas,Al Ahly,0,0,False,Draw,Ivory Coast,Egypt,West Africa,North Africa,Yes,20,23,-3,4602.0,Tropical
+2016-08-24,2016,CAF Champions League,Group Stage,Zesco United,Wydad Casablanca,1,1,False,Draw,Zambia,Morocco,Southern Africa,North Africa,Yes,1280,56,1224,6400.5,Tropical
+2016-09-16,2016,CAF Champions League,Semi-final,Zamalek,Wydad Casablanca,4,0,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2016-09-17,2016,CAF Champions League,Semi-final,Zesco United,Mamelodi Sundowns,2,1,False,Home Win,Zambia,South Africa,Southern Africa,Southern Africa,No,1280,1340,-60,1439.5,Tropical
+2016-09-24,2016,CAF Champions League,Semi-final,Wydad Casablanca,Zamalek,5,2,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2016-09-24,2016,CAF Champions League,Semi-final,Mamelodi Sundowns,Zesco United,2,0,False,Home Win,South Africa,Zambia,Southern Africa,Southern Africa,No,1340,1280,60,1439.5,Semi-Arid
+2016-10-15,2016,CAF Champions League,Final,Mamelodi Sundowns,Zamalek,3,0,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2016-10-23,2016,CAF Champions League,Final,Zamalek,Mamelodi Sundowns,1,0,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2017-01-14,2017,African Cup of Nations,Group Stage,Gabon,Guinea-Bissau,1,1,False,Draw,Gabon,Guinea-Bissau,Central Africa,West Africa,Yes,30,20,10,,Tropical
+2017-01-18,2017,African Cup of Nations,Group Stage,Gabon,Burkina Faso,1,1,False,Draw,Gabon,Burkina Faso,Central Africa,West Africa,Yes,30,310,-280,,Tropical
+2017-01-22,2017,African Cup of Nations,Group Stage,Gabon,Cameroon,0,0,False,Draw,Gabon,Cameroon,Central Africa,Central Africa,No,30,750,-720,,Tropical
+2017-05-12,2017,CAF Champions League,Group Stage,Etoile du Sahel,Ferroviario Beira,5,0,False,Home Win,Tunisia,Mozambique,North Africa,Southern Africa,Yes,20,10,10,6694.2,Mediterranean
+2017-05-12,2017,CAF Champions League,Group Stage,Al Hilal,Al Merreikh,1,1,False,Draw,Sudan,Sudan,East Africa,East Africa,No,380,380,0,0.0,Arid
+2017-05-12,2017,CAF Champions League,Group Stage,USM Alger,Al Ahly,3,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2017-05-12,2017,CAF Champions League,Group Stage,Zamalek,CAPS United,2,0,False,Home Win,Egypt,Zimbabwe,North Africa,Southern Africa,Yes,23,1490,-1467,5325.4,Arid
+2017-05-12,2017,CAF Champions League,Group Stage,Esperance de Tunis,AS Vita Club,3,1,False,Home Win,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,320,-310,4605.4,Mediterranean
+2017-05-12,2017,CAF Champions League,Group Stage,Wydad Casablanca,Cotonsport,2,0,False,Home Win,Morocco,Cameroon,North Africa,Central Africa,Yes,56,358,-302,3507.7,Mediterranean
+2017-05-13,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,Saint George,0,0,False,Draw,South Africa,Ethiopia,Southern Africa,East Africa,Yes,1340,2355,-1015,4028.9,Semi-Arid
+2017-05-13,2017,CAF Champions League,Group Stage,Al Ahly,Zanaco,0,0,False,Draw,Egypt,Zambia,North Africa,Southern Africa,Yes,23,1279,-1256,5067.0,Arid
+2017-05-23,2017,CAF Champions League,Group Stage,Ferroviario Beira,Al Hilal,0,0,False,Draw,Mozambique,Sudan,Southern Africa,East Africa,Yes,10,380,-370,3938.0,Tropical
+2017-05-23,2017,CAF Champions League,Group Stage,Al Merreikh,Etoile du Sahel,1,2,False,Away Win,Sudan,Tunisia,East Africa,North Africa,Yes,380,20,360,3136.6,Arid
+2017-05-23,2017,CAF Champions League,Group Stage,Al Ahly,Zamalek,0,0,False,Draw,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2017-05-23,2017,CAF Champions League,Group Stage,Saint George,Esperance de Tunis,0,0,False,Draw,Ethiopia,Tunisia,East Africa,North Africa,Yes,2355,10,2345,4223.4,Tropical Highland
+2017-05-23,2017,CAF Champions League,Group Stage,Cotonsport,Al Ahly,0,2,False,Away Win,Cameroon,Egypt,Central Africa,North Africa,Yes,358,23,335,2902.2,Tropical
+2017-05-24,2017,CAF Champions League,Group Stage,CAPS United,USM Alger,2,1,False,Home Win,Zimbabwe,Algeria,Southern Africa,North Africa,Yes,1490,424,1066,6740.1,Tropical
+2017-05-24,2017,CAF Champions League,Group Stage,AS Vita Club,Mamelodi Sundowns,1,3,False,Away Win,DR Congo,South Africa,Central Africa,Southern Africa,Yes,320,1340,-1020,2750.3,Tropical
+2017-05-24,2017,CAF Champions League,Group Stage,Zanaco,Wydad Casablanca,1,0,False,Home Win,Zambia,Morocco,Southern Africa,North Africa,Yes,1279,56,1223,6643.4,Tropical
+2017-06-02,2017,CAF Champions League,Group Stage,CAPS United,Al Ahly,2,4,False,Away Win,Zimbabwe,Egypt,Southern Africa,North Africa,Yes,1490,23,1467,5325.4,Tropical
+2017-06-02,2017,CAF Champions League,Group Stage,Zamalek,USM Alger,1,1,False,Draw,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2017-06-02,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,Esperance de Tunis,1,2,False,Away Win,South Africa,Tunisia,Southern Africa,North Africa,Yes,1340,10,1330,7207.9,Semi-Arid
+2017-06-03,2017,CAF Champions League,Group Stage,Ferroviario Beira,Al Merreikh,1,0,False,Home Win,Mozambique,Sudan,Southern Africa,East Africa,Yes,10,380,-370,3938.0,Tropical
+2017-06-03,2017,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,1,1,False,Draw,Tunisia,Sudan,North Africa,East Africa,Yes,20,380,-360,3136.6,Mediterranean
+2017-06-03,2017,CAF Champions League,Group Stage,Zanaco,Cotonsport,2,1,False,Home Win,Zambia,Cameroon,Southern Africa,Central Africa,Yes,1279,358,921,3149.7,Tropical
+2017-06-04,2017,CAF Champions League,Group Stage,Saint George,AS Vita Club,1,0,False,Home Win,Ethiopia,DR Congo,East Africa,Central Africa,Yes,2355,320,2035,2991.9,Tropical Highland
+2017-06-04,2017,CAF Champions League,Group Stage,Al Ahly,Wydad Casablanca,2,0,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2017-06-20,2017,CAF Champions League,Group Stage,Al Merreikh,Ferroviario Beira,2,1,False,Home Win,Sudan,Mozambique,East Africa,Southern Africa,Yes,380,10,370,3938.0,Arid
+2017-06-20,2017,CAF Champions League,Group Stage,AS Vita Club,Saint George,2,1,False,Home Win,DR Congo,Ethiopia,Central Africa,East Africa,Yes,320,2355,-2035,2991.9,Tropical
+2017-06-20,2017,CAF Champions League,Group Stage,Wydad Casablanca,Al Ahly,2,0,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2017-06-21,2017,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,1,False,Draw,Sudan,Tunisia,East Africa,North Africa,Yes,380,20,360,3136.6,Arid
+2017-06-21,2017,CAF Champions League,Group Stage,Al Ahly,CAPS United,4,2,False,Home Win,Egypt,Zimbabwe,North Africa,Southern Africa,Yes,23,1490,-1467,5325.4,Arid
+2017-06-21,2017,CAF Champions League,Group Stage,USM Alger,Zamalek,2,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2017-06-21,2017,CAF Champions League,Group Stage,Esperance de Tunis,Mamelodi Sundowns,0,0,False,Draw,Tunisia,South Africa,North Africa,Southern Africa,Yes,10,1340,-1330,7207.9,Mediterranean
+2017-06-21,2017,CAF Champions League,Group Stage,Cotonsport,Zanaco,0,1,False,Away Win,Cameroon,Zambia,Central Africa,Southern Africa,Yes,358,1279,-921,3149.7,Tropical
+2017-06-30,2017,CAF Champions League,Group Stage,Al Merreikh,Al Hilal,2,1,False,Home Win,Sudan,Sudan,East Africa,East Africa,No,380,380,0,0.0,Arid
+2017-06-30,2017,CAF Champions League,Group Stage,Al Ahly,USM Alger,1,1,False,Draw,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2017-07-01,2017,CAF Champions League,Group Stage,Ferroviario Beira,Etoile du Sahel,1,1,False,Draw,Mozambique,Tunisia,Southern Africa,North Africa,Yes,10,20,-10,6694.2,Tropical
+2017-07-01,2017,CAF Champions League,Group Stage,Saint George,Mamelodi Sundowns,0,1,False,Away Win,Ethiopia,South Africa,East Africa,Southern Africa,Yes,2355,1340,1015,4028.9,Tropical Highland
+2017-07-01,2017,CAF Champions League,Group Stage,AS Vita Club,Esperance de Tunis,2,2,False,Draw,DR Congo,Tunisia,Central Africa,North Africa,Yes,320,10,310,4605.4,Tropical
+2017-07-01,2017,CAF Champions League,Group Stage,Zanaco,Al Ahly,0,0,False,Draw,Zambia,Egypt,Southern Africa,North Africa,Yes,1279,23,1256,5067.0,Tropical
+2017-07-01,2017,CAF Champions League,Group Stage,Cotonsport,Wydad Casablanca,0,2,False,Away Win,Cameroon,Morocco,Central Africa,North Africa,Yes,358,56,302,3507.7,Tropical
+2017-07-02,2017,CAF Champions League,Group Stage,CAPS United,Zamalek,3,1,False,Home Win,Zimbabwe,Egypt,Southern Africa,North Africa,Yes,1490,23,1467,5325.4,Tropical
+2017-07-07,2017,CAF Champions League,Group Stage,Al Hilal,Ferroviario Beira,0,3,False,Away Win,Sudan,Mozambique,East Africa,Southern Africa,Yes,380,10,370,3938.0,Arid
+2017-07-07,2017,CAF Champions League,Group Stage,Etoile du Sahel,Al Merreikh,3,0,False,Home Win,Tunisia,Sudan,North Africa,East Africa,Yes,20,380,-360,3136.6,Mediterranean
+2017-07-08,2017,CAF Champions League,Group Stage,Al Ahly,Cotonsport,3,1,False,Home Win,Egypt,Cameroon,North Africa,Central Africa,Yes,23,358,-335,2902.2,Arid
+2017-07-08,2017,CAF Champions League,Group Stage,Wydad Casablanca,Zanaco,1,0,False,Home Win,Morocco,Zambia,North Africa,Southern Africa,Yes,56,1279,-1223,6643.4,Mediterranean
+2017-07-09,2017,CAF Champions League,Group Stage,USM Alger,CAPS United,4,1,False,Home Win,Algeria,Zimbabwe,North Africa,Southern Africa,Yes,424,1490,-1066,6740.1,Mediterranean
+2017-07-09,2017,CAF Champions League,Group Stage,Zamalek,Al Ahly,2,2,False,Draw,Egypt,Egypt,North Africa,North Africa,No,23,23,0,0.0,Arid
+2017-07-09,2017,CAF Champions League,Group Stage,Esperance de Tunis,Saint George,4,0,False,Home Win,Tunisia,Ethiopia,North Africa,East Africa,Yes,10,2355,-2345,4223.4,Mediterranean
+2017-07-09,2017,CAF Champions League,Group Stage,Mamelodi Sundowns,AS Vita Club,1,1,False,Draw,South Africa,DR Congo,Southern Africa,Central Africa,Yes,1340,320,1020,2750.3,Semi-Arid
+2017-09-16,2017,CAF Champions League,Quarter-final,Ferroviario Beira,USM Alger,1,1,False,Draw,Mozambique,Algeria,Southern Africa,North Africa,Yes,10,424,-414,7119.5,Tropical
+2017-09-16,2017,CAF Champions League,Quarter-final,Al Ahly,Esperance de Tunis,2,2,False,Draw,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2017-09-17,2017,CAF Champions League,Quarter-final,Mamelodi Sundowns,Wydad Casablanca,1,0,False,Home Win,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2017-09-17,2017,CAF Champions League,Quarter-final,Al Ahly Tripoli,Etoile du Sahel,0,0,False,Draw,Libya,Tunisia,North Africa,North Africa,No,47,20,27,400.2,Arid
+2017-09-23,2017,CAF Champions League,Quarter-final,USM Alger,Ferroviario Beira,0,0,False,Draw,Algeria,Mozambique,North Africa,Southern Africa,Yes,424,10,414,7119.5,Mediterranean
+2017-09-23,2017,CAF Champions League,Quarter-final,Esperance de Tunis,Al Ahly,1,2,False,Away Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2017-09-24,2017,CAF Champions League,Quarter-final,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2017-09-24,2017,CAF Champions League,Quarter-final,Etoile du Sahel,Al Ahly Tripoli,2,0,False,Home Win,Tunisia,Libya,North Africa,North Africa,No,20,47,-27,400.2,Mediterranean
+2017-09-29,2017,CAF Champions League,Semi-final,USM Alger,Wydad Casablanca,0,0,False,Draw,Algeria,Morocco,North Africa,North Africa,No,424,56,368,1031.7,Mediterranean
+2017-10-01,2017,CAF Champions League,Semi-final,Etoile du Sahel,Al Ahly,2,1,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,20,23,-3,2022.9,Mediterranean
+2017-10-21,2017,CAF Champions League,Semi-final,Wydad Casablanca,USM Alger,3,1,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,424,-368,1031.7,Mediterranean
+2017-10-22,2017,CAF Champions League,Semi-final,Al Ahly,Etoile du Sahel,6,2,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,20,3,2022.9,Arid
+2017-10-28,2017,CAF Champions League,Final,Al Ahly,Wydad Casablanca,1,1,False,Draw,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2017-11-04,2017,CAF Champions League,Final,Wydad Casablanca,Al Ahly,1,0,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2018-05-04,2018,CAF Champions League,Group Stage,Al Ahly,Esperance de Tunis,0,0,False,Draw,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2018-05-04,2018,CAF Champions League,Group Stage,Township Rollers,KCCA,1,0,False,Home Win,Botswana,Uganda,Southern Africa,East Africa,Yes,1010,1200,-190,2871.5,Semi-Arid
+2018-05-04,2018,CAF Champions League,Group Stage,MC Alger,DH El Jadida,1,1,False,Draw,Algeria,Morocco,North Africa,North Africa,No,424,35,389,1124.4,Mediterranean
+2018-05-05,2018,CAF Champions League,Group Stage,TP Mazembe,ES Setif,4,1,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,1096,154,5802.4,Tropical
+2018-05-05,2018,CAF Champions League,Group Stage,Togo-Port,Horoya AC,1,2,False,Away Win,Togo,Guinea,West Africa,West Africa,No,10,30,-20,1674.7,Tropical
+2018-05-05,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,1,1,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2018-05-05,2018,CAF Champions League,Group Stage,Zesco United,Mbabane Swallows,1,1,False,Draw,Zambia,Eswatini,Southern Africa,Southern Africa,No,1280,1160,120,1532.2,Tropical
+2018-05-05,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Etoile du Sahel,1,1,False,Draw,Angola,Tunisia,Southern Africa,North Africa,Yes,60,20,40,4973.6,Tropical
+2018-05-15,2018,CAF Champions League,Group Stage,KCCA,Al Ahly,2,0,False,Home Win,Uganda,Egypt,East Africa,North Africa,Yes,1200,23,1177,3307.2,Tropical
+2018-05-15,2018,CAF Champions League,Group Stage,Esperance de Tunis,Township Rollers,4,1,False,Home Win,Tunisia,Botswana,North Africa,Southern Africa,Yes,10,1010,-1000,7030.1,Mediterranean
+2018-05-15,2018,CAF Champions League,Group Stage,DH El Jadida,TP Mazembe,0,2,False,Away Win,Morocco,DR Congo,North Africa,Central Africa,Yes,35,1250,-1215,6280.9,Mediterranean
+2018-05-15,2018,CAF Champions League,Group Stage,ES Setif,MC Alger,0,1,False,Away Win,Algeria,Algeria,North Africa,North Africa,No,1096,424,672,216.6,Semi-Arid
+2018-05-15,2018,CAF Champions League,Group Stage,Wydad Casablanca,Togo-Port,3,0,False,Home Win,Morocco,Togo,North Africa,West Africa,Yes,56,10,46,3183.0,Mediterranean
+2018-05-15,2018,CAF Champions League,Group Stage,Mbabane Swallows,Primeiro de Agosto,1,0,False,Home Win,Eswatini,Angola,Southern Africa,Southern Africa,No,1160,60,1100,2708.4,Subtropical
+2018-05-16,2018,CAF Champions League,Group Stage,Etoile du Sahel,Zesco United,2,1,False,Home Win,Tunisia,Zambia,North Africa,Southern Africa,Yes,20,1280,-1260,5714.1,Mediterranean
+2018-05-22,2018,CAF Champions League,Group Stage,Horoya AC,Mamelodi Sundowns,2,2,False,Draw,Guinea,South Africa,West Africa,Southern Africa,Yes,30,1340,-1310,5993.8,Tropical
+2018-07-17,2018,CAF Champions League,Group Stage,Al Ahly,Township Rollers,3,0,False,Home Win,Egypt,Botswana,North Africa,Southern Africa,Yes,23,1010,-987,6110.8,Arid
+2018-07-17,2018,CAF Champions League,Group Stage,Esperance de Tunis,KCCA,3,2,False,Home Win,Tunisia,Uganda,North Africa,East Africa,Yes,10,1200,-1190,4663.3,Mediterranean
+2018-07-17,2018,CAF Champions League,Group Stage,TP Mazembe,MC Alger,1,0,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,424,826,5956.3,Tropical
+2018-07-17,2018,CAF Champions League,Group Stage,ES Setif,DH El Jadida,2,1,False,Home Win,Algeria,Morocco,North Africa,North Africa,No,1096,35,1061,1312.1,Semi-Arid
+2018-07-17,2018,CAF Champions League,Group Stage,Togo-Port,Mamelodi Sundowns,1,0,False,Home Win,Togo,South Africa,West Africa,Southern Africa,Yes,10,1340,-1330,4591.3,Tropical
+2018-07-17,2018,CAF Champions League,Group Stage,Horoya AC,Wydad Casablanca,1,1,False,Draw,Guinea,Morocco,West Africa,North Africa,Yes,30,56,-26,2730.7,Tropical
+2018-07-17,2018,CAF Champions League,Group Stage,Mbabane Swallows,Etoile du Sahel,0,3,False,Away Win,Eswatini,Tunisia,Southern Africa,North Africa,Yes,1160,20,1140,7236.0,Subtropical
+2018-07-17,2018,CAF Champions League,Group Stage,Zesco United,Primeiro de Agosto,0,0,False,Draw,Zambia,Angola,Southern Africa,Southern Africa,No,1280,60,1220,1693.8,Tropical
+2018-07-27,2018,CAF Champions League,Group Stage,DH El Jadida,ES Setif,1,1,False,Draw,Morocco,Algeria,North Africa,North Africa,No,35,1096,-1061,1312.1,Mediterranean
+2018-07-27,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Togo-Port,2,1,False,Home Win,South Africa,Togo,Southern Africa,West Africa,Yes,1340,10,1330,4591.3,Semi-Arid
+2018-07-27,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Zesco United,2,1,False,Home Win,Angola,Zambia,Southern Africa,Southern Africa,No,60,1280,-1220,1693.8,Tropical
+2018-07-27,2018,CAF Champions League,Group Stage,Etoile du Sahel,Mbabane Swallows,2,0,False,Home Win,Tunisia,Eswatini,North Africa,Southern Africa,Yes,20,1160,-1140,7236.0,Mediterranean
+2018-07-28,2018,CAF Champions League,Group Stage,KCCA,Esperance de Tunis,0,1,False,Away Win,Uganda,Tunisia,East Africa,North Africa,Yes,1200,10,1190,4663.3,Tropical
+2018-07-28,2018,CAF Champions League,Group Stage,Township Rollers,Al Ahly,0,1,False,Away Win,Botswana,Egypt,Southern Africa,North Africa,Yes,1010,23,987,6110.8,Semi-Arid
+2018-07-28,2018,CAF Champions League,Group Stage,MC Alger,TP Mazembe,1,1,False,Draw,Algeria,DR Congo,North Africa,Central Africa,Yes,424,1250,-826,5956.3,Mediterranean
+2018-07-28,2018,CAF Champions League,Group Stage,Wydad Casablanca,Horoya AC,2,0,False,Home Win,Morocco,Guinea,North Africa,West Africa,Yes,56,30,26,2730.7,Mediterranean
+2018-08-17,2018,CAF Champions League,Group Stage,Esperance de Tunis,Al Ahly,0,1,False,Away Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2018-08-17,2018,CAF Champions League,Group Stage,ES Setif,TP Mazembe,1,1,False,Draw,Algeria,DR Congo,North Africa,Central Africa,Yes,1096,1250,-154,5802.4,Semi-Arid
+2018-08-17,2018,CAF Champions League,Group Stage,Horoya AC,Togo-Port,2,1,False,Home Win,Guinea,Togo,West Africa,West Africa,No,30,10,20,1674.7,Tropical
+2018-08-17,2018,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2018-08-18,2018,CAF Champions League,Group Stage,KCCA,Township Rollers,1,0,False,Home Win,Uganda,Botswana,East Africa,Southern Africa,Yes,1200,1010,190,2871.5,Tropical
+2018-08-18,2018,CAF Champions League,Group Stage,DH El Jadida,MC Alger,2,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,35,424,-389,1124.4,Mediterranean
+2018-08-18,2018,CAF Champions League,Group Stage,Mbabane Swallows,Zesco United,0,3,False,Away Win,Eswatini,Zambia,Southern Africa,Southern Africa,No,1160,1280,-120,1532.2,Subtropical
+2018-08-18,2018,CAF Champions League,Group Stage,Etoile du Sahel,Primeiro de Agosto,1,1,False,Draw,Tunisia,Angola,North Africa,Southern Africa,Yes,20,60,-40,4973.6,Mediterranean
+2018-08-28,2018,CAF Champions League,Group Stage,Al Ahly,KCCA,4,3,False,Home Win,Egypt,Uganda,North Africa,East Africa,Yes,23,1200,-1177,3307.2,Arid
+2018-08-28,2018,CAF Champions League,Group Stage,Township Rollers,Esperance de Tunis,0,0,False,Draw,Botswana,Tunisia,Southern Africa,North Africa,Yes,1010,10,1000,7030.1,Semi-Arid
+2018-08-28,2018,CAF Champions League,Group Stage,TP Mazembe,DH El Jadida,1,1,False,Draw,DR Congo,Morocco,Central Africa,North Africa,Yes,1250,35,1215,6280.9,Tropical
+2018-08-28,2018,CAF Champions League,Group Stage,MC Alger,ES Setif,1,2,False,Away Win,Algeria,Algeria,North Africa,North Africa,No,424,1096,-672,216.6,Mediterranean
+2018-08-28,2018,CAF Champions League,Group Stage,Mamelodi Sundowns,Horoya AC,0,0,False,Draw,South Africa,Guinea,Southern Africa,West Africa,Yes,1340,30,1310,5993.8,Semi-Arid
+2018-08-28,2018,CAF Champions League,Group Stage,Togo-Port,Wydad Casablanca,0,0,False,Draw,Togo,Morocco,West Africa,North Africa,Yes,10,56,-46,3183.0,Tropical
+2018-08-28,2018,CAF Champions League,Group Stage,Primeiro de Agosto,Mbabane Swallows,2,1,False,Home Win,Angola,Eswatini,Southern Africa,Southern Africa,No,60,1160,-1100,2708.4,Tropical
+2018-08-28,2018,CAF Champions League,Group Stage,Zesco United,Etoile du Sahel,1,1,False,Draw,Zambia,Tunisia,Southern Africa,North Africa,Yes,1280,20,1260,5714.1,Tropical
+2018-09-14,2018,CAF Champions League,Quarter-final,ES Setif,Wydad Casablanca,1,0,False,Home Win,Algeria,Morocco,North Africa,North Africa,No,1096,56,1040,1220.0,Semi-Arid
+2018-09-14,2018,CAF Champions League,Quarter-final,Horoya AC,Al Ahly,0,0,False,Draw,Guinea,Egypt,West Africa,North Africa,Yes,30,23,7,5164.5,Tropical
+2018-09-15,2018,CAF Champions League,Quarter-final,Primeiro de Agosto,TP Mazembe,0,0,False,Draw,Angola,DR Congo,Southern Africa,Central Africa,Yes,60,1250,-1190,1589.7,Tropical
+2018-09-15,2018,CAF Champions League,Quarter-final,Esperance de Tunis,Etoile du Sahel,2,1,False,Home Win,Tunisia,Tunisia,North Africa,North Africa,No,10,20,-10,116.5,Mediterranean
+2018-09-21,2018,CAF Champions League,Quarter-final,Wydad Casablanca,ES Setif,0,0,False,Draw,Morocco,Algeria,North Africa,North Africa,No,56,1096,-1040,1220.0,Mediterranean
+2018-09-21,2018,CAF Champions League,Quarter-final,TP Mazembe,Primeiro de Agosto,1,1,False,Draw,DR Congo,Angola,Central Africa,Southern Africa,Yes,1250,60,1190,1589.7,Tropical
+2018-09-21,2018,CAF Champions League,Quarter-final,Etoile du Sahel,Esperance de Tunis,0,1,False,Away Win,Tunisia,Tunisia,North Africa,North Africa,No,20,10,10,116.5,Mediterranean
+2018-09-22,2018,CAF Champions League,Quarter-final,Al Ahly,Horoya AC,4,0,False,Home Win,Egypt,Guinea,North Africa,West Africa,Yes,23,30,-7,5164.5,Arid
+2018-10-02,2018,CAF Champions League,Semi-final,Primeiro de Agosto,Esperance de Tunis,1,0,False,Home Win,Angola,Tunisia,Southern Africa,North Africa,Yes,60,10,50,5085.3,Tropical
+2018-10-02,2018,CAF Champions League,Semi-final,Al Ahly,ES Setif,2,0,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,1096,-1073,2492.3,Arid
+2018-10-23,2018,CAF Champions League,Semi-final,Esperance de Tunis,Primeiro de Agosto,4,2,False,Home Win,Tunisia,Angola,North Africa,Southern Africa,Yes,10,60,-50,5085.3,Mediterranean
+2018-10-23,2018,CAF Champions League,Semi-final,ES Setif,Al Ahly,2,1,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,1096,23,1073,2492.3,Semi-Arid
+2018-11-02,2018,CAF Champions League,Final,Al Ahly,Esperance de Tunis,3,1,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2018-11-09,2018,CAF Champions League,Final,Esperance de Tunis,Al Ahly,3,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2019-01-11,2018/19,CAF Champions League,Group Stage,Lobi Stars,Mamelodi Sundowns,2,1,False,Home Win,Nigeria,South Africa,West Africa,Southern Africa,Yes,185,1340,-1155,4290.2,Tropical
+2019-01-11,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,5,2,False,Home Win,Morocco,Ivory Coast,North Africa,West Africa,Yes,56,20,36,3160.1,Mediterranean
+2019-01-11,2018/19,CAF Champions League,Group Stage,Horoya AC,Esperance de Tunis,1,1,False,Draw,Guinea,Tunisia,West Africa,North Africa,Yes,30,10,20,3851.2,Tropical
+2019-01-11,2018/19,CAF Champions League,Group Stage,Club Africain,CS Constantine,0,1,False,Away Win,Tunisia,Algeria,North Africa,North Africa,No,10,640,-630,322.2,Mediterranean
+2019-01-12,2018/19,CAF Champions League,Group Stage,FC Platinum,Orlando Pirates,0,0,False,Draw,Zimbabwe,South Africa,Southern Africa,Southern Africa,No,1400,1753,-353,772.6,Tropical
+2019-01-12,2018/19,CAF Champions League,Group Stage,TP Mazembe,Ismaily,2,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,5,1245,4726.7,Tropical
+2019-01-12,2018/19,CAF Champions League,Group Stage,Simba SC,JS Saoura,3,0,False,Home Win,Tanzania,Algeria,East Africa,North Africa,Yes,55,770,-715,5801.5,Tropical
+2019-01-12,2018/19,CAF Champions League,Group Stage,Al Ahly,AS Vita Club,2,0,False,Home Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,320,-297,4183.6,Arid
+2019-01-18,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,FC Platinum,2,0,False,Home Win,Tunisia,Zimbabwe,North Africa,Southern Africa,Yes,10,1400,-1390,6586.2,Mediterranean
+2019-01-18,2018/19,CAF Champions League,Group Stage,Orlando Pirates,Horoya AC,3,0,False,Home Win,South Africa,Guinea,Southern Africa,West Africa,Yes,1753,30,1723,6008.7,Semi-Arid
+2019-01-18,2018/19,CAF Champions League,Group Stage,Ismaily,Club Africain,1,2,False,Away Win,Egypt,Tunisia,North Africa,North Africa,No,5,10,-5,2151.1,Arid
+2019-01-18,2018/19,CAF Champions League,Group Stage,JS Saoura,Al Ahly,1,1,False,Draw,Algeria,Egypt,North Africa,North Africa,No,770,23,747,2769.2,Arid
+2019-01-19,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Lobi Stars,1,0,False,Home Win,Ivory Coast,Nigeria,West Africa,West Africa,No,20,185,-165,1410.2,Tropical
+2019-01-19,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,2,1,False,Home Win,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2019-01-19,2018/19,CAF Champions League,Group Stage,CS Constantine,TP Mazembe,3,0,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,640,1250,-610,5770.7,Semi-Arid
+2019-01-19,2018/19,CAF Champions League,Group Stage,AS Vita Club,Simba SC,5,0,False,Home Win,DR Congo,Tanzania,Central Africa,East Africa,Yes,320,55,265,2657.3,Tropical
+2019-02-01,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,ASEC Mimosas,3,1,False,Home Win,South Africa,Ivory Coast,Southern Africa,West Africa,Yes,1340,20,1320,4905.0,Semi-Arid
+2019-02-02,2018/19,CAF Champions League,Group Stage,Lobi Stars,Wydad Casablanca,0,1,False,Away Win,Nigeria,Morocco,West Africa,North Africa,Yes,185,56,129,3315.1,Tropical
+2019-02-02,2018/19,CAF Champions League,Group Stage,FC Platinum,Horoya AC,0,1,False,Away Win,Zimbabwe,Guinea,Southern Africa,West Africa,Yes,1400,30,1370,5749.2,Tropical
+2019-02-02,2018/19,CAF Champions League,Group Stage,Orlando Pirates,Esperance de Tunis,0,0,False,Draw,South Africa,Tunisia,Southern Africa,North Africa,Yes,1753,10,1743,7251.8,Semi-Arid
+2019-02-02,2018/19,CAF Champions League,Group Stage,TP Mazembe,Club Africain,8,0,False,Home Win,DR Congo,Tunisia,Central Africa,North Africa,Yes,1250,10,1240,5685.2,Tropical
+2019-02-02,2018/19,CAF Champions League,Group Stage,AS Vita Club,JS Saoura,2,2,False,Draw,DR Congo,Algeria,Central Africa,North Africa,Yes,320,770,-450,4232.8,Tropical
+2019-02-02,2018/19,CAF Champions League,Group Stage,Al Ahly,Simba SC,5,0,False,Home Win,Egypt,Tanzania,North Africa,East Africa,Yes,23,55,-32,4185.2,Arid
+2019-02-12,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Mamelodi Sundowns,0,0,False,Draw,Ivory Coast,South Africa,West Africa,Southern Africa,Yes,20,1340,-1320,4905.0,Tropical
+2019-02-12,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,Lobi Stars,0,0,False,Draw,Morocco,Nigeria,North Africa,West Africa,Yes,56,185,-129,3315.1,Mediterranean
+2019-02-12,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,Orlando Pirates,2,0,False,Home Win,Tunisia,South Africa,North Africa,Southern Africa,Yes,10,1753,-1743,7251.8,Mediterranean
+2019-02-12,2018/19,CAF Champions League,Group Stage,Horoya AC,FC Platinum,2,0,False,Home Win,Guinea,Zimbabwe,West Africa,Southern Africa,Yes,30,1400,-1370,5749.2,Tropical
+2019-02-12,2018/19,CAF Champions League,Group Stage,Club Africain,TP Mazembe,0,0,False,Draw,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,5685.2,Mediterranean
+2019-02-12,2018/19,CAF Champions League,Group Stage,Ismaily,CS Constantine,1,1,False,Draw,Egypt,Algeria,North Africa,North Africa,No,5,640,-635,2456.3,Arid
+2019-02-12,2018/19,CAF Champions League,Group Stage,Simba SC,Al Ahly,1,0,False,Home Win,Tanzania,Egypt,East Africa,North Africa,Yes,55,23,32,4185.2,Tropical
+2019-02-12,2018/19,CAF Champions League,Group Stage,JS Saoura,AS Vita Club,1,0,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,770,320,450,4232.8,Arid
+2019-03-02,2018/19,CAF Champions League,Group Stage,CS Constantine,Ismaily,3,2,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,640,5,635,2456.3,Semi-Arid
+2019-03-08,2018/19,CAF Champions League,Group Stage,Esperance de Tunis,Horoya AC,2,0,False,Home Win,Tunisia,Guinea,North Africa,West Africa,Yes,10,30,-20,3851.2,Mediterranean
+2019-03-08,2018/19,CAF Champions League,Group Stage,Orlando Pirates,FC Platinum,2,2,False,Draw,South Africa,Zimbabwe,Southern Africa,Southern Africa,No,1753,1400,353,772.6,Semi-Arid
+2019-03-08,2018/19,CAF Champions League,Group Stage,CS Constantine,Club Africain,0,1,False,Away Win,Algeria,Tunisia,North Africa,North Africa,No,640,10,630,322.2,Semi-Arid
+2019-03-08,2018/19,CAF Champions League,Group Stage,Ismaily,TP Mazembe,1,1,False,Draw,Egypt,DR Congo,North Africa,Central Africa,Yes,5,1250,-1245,4726.7,Arid
+2019-03-09,2018/19,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,2,0,False,Home Win,Ivory Coast,Morocco,West Africa,North Africa,Yes,20,56,-36,3160.1,Tropical
+2019-03-09,2018/19,CAF Champions League,Group Stage,Mamelodi Sundowns,Lobi Stars,3,0,False,Home Win,South Africa,Nigeria,Southern Africa,West Africa,Yes,1340,185,1155,4290.2,Semi-Arid
+2019-03-09,2018/19,CAF Champions League,Group Stage,AS Vita Club,Al Ahly,1,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,320,23,297,4183.6,Tropical
+2019-03-09,2018/19,CAF Champions League,Group Stage,JS Saoura,Simba SC,2,0,False,Home Win,Algeria,Tanzania,North Africa,East Africa,Yes,770,55,715,5801.5,Arid
+2019-03-16,2018/19,CAF Champions League,Group Stage,Lobi Stars,ASEC Mimosas,2,0,False,Home Win,Nigeria,Ivory Coast,West Africa,West Africa,No,185,20,165,1410.2,Tropical
+2019-03-16,2018/19,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,1,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2019-03-16,2018/19,CAF Champions League,Group Stage,FC Platinum,Esperance de Tunis,1,2,False,Away Win,Zimbabwe,Tunisia,Southern Africa,North Africa,Yes,1400,10,1390,6586.2,Tropical
+2019-03-16,2018/19,CAF Champions League,Group Stage,Horoya AC,Orlando Pirates,2,1,False,Home Win,Guinea,South Africa,West Africa,Southern Africa,Yes,30,1753,-1723,6008.7,Tropical
+2019-03-16,2018/19,CAF Champions League,Group Stage,TP Mazembe,CS Constantine,2,0,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,640,610,5770.7,Tropical
+2019-03-16,2018/19,CAF Champions League,Group Stage,Club Africain,Ismaily,1,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,5,5,2151.1,Mediterranean
+2019-03-16,2018/19,CAF Champions League,Group Stage,Al Ahly,JS Saoura,3,0,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,770,-747,2769.2,Arid
+2019-03-16,2018/19,CAF Champions League,Group Stage,Simba SC,AS Vita Club,2,1,False,Home Win,Tanzania,DR Congo,East Africa,Central Africa,Yes,55,320,-265,2657.3,Tropical
+2019-04-06,2018/19,CAF Champions League,Quarter-final,CS Constantine,Esperance de Tunis,2,3,False,Away Win,Algeria,Tunisia,North Africa,North Africa,No,640,10,630,322.2,Semi-Arid
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,5,0,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Horoya AC,Wydad Casablanca,0,0,False,Draw,Guinea,Morocco,West Africa,North Africa,Yes,30,56,-26,2730.7,Tropical
+2019-04-06,2018/19,CAF Champions League,Quarter-final,Simba SC,TP Mazembe,0,0,False,Draw,Tanzania,DR Congo,East Africa,Central Africa,Yes,55,1250,-1195,1396.1,Tropical
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Esperance de Tunis,CS Constantine,3,1,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,640,-630,322.2,Mediterranean
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,1,0,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2019-04-13,2018/19,CAF Champions League,Quarter-final,Wydad Casablanca,Horoya AC,5,0,False,Home Win,Morocco,Guinea,North Africa,West Africa,Yes,56,30,26,2730.7,Mediterranean
+2019-04-13,2018/19,CAF Champions League,Quarter-final,TP Mazembe,Simba SC,4,1,False,Home Win,DR Congo,Tanzania,Central Africa,East Africa,Yes,1250,55,1195,1396.1,Tropical
+2019-04-26,2018/19,CAF Champions League,Semi-final,Wydad Casablanca,Mamelodi Sundowns,2,1,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2019-04-27,2018/19,CAF Champions League,Semi-final,Esperance de Tunis,TP Mazembe,1,0,False,Home Win,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,1250,-1240,5685.2,Mediterranean
+2019-05-04,2018/19,CAF Champions League,Semi-final,Mamelodi Sundowns,Wydad Casablanca,0,0,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2019-05-04,2018/19,CAF Champions League,Semi-final,TP Mazembe,Esperance de Tunis,0,0,False,Draw,DR Congo,Tunisia,Central Africa,North Africa,Yes,1250,10,1240,5685.2,Tropical
+2019-05-24,2018/19,CAF Champions League,Final,Wydad Casablanca,Esperance de Tunis,1,1,False,Draw,Morocco,Tunisia,North Africa,North Africa,No,56,10,46,1651.8,Mediterranean
+2019-05-31,2018/19,CAF Champions League,Final,Esperance de Tunis,Wydad Casablanca,1,0,False,Home Win,Tunisia,Morocco,North Africa,North Africa,No,10,56,-46,1651.8,Mediterranean
+2019-06-21,2019,African Cup of Nations,Group Stage,Egypt,Zimbabwe,1,0,False,Home Win,Egypt,Zimbabwe,North Africa,Southern Africa,Yes,23,1490,-1467,,Arid
+2019-06-26,2019,African Cup of Nations,Group Stage,Egypt,DR Congo,2,0,False,Home Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,320,-297,,Arid
+2019-06-30,2019,African Cup of Nations,Group Stage,Egypt,Uganda,2,0,False,Home Win,Egypt,Uganda,North Africa,East Africa,Yes,23,1200,-1177,,Arid
+2019-07-06,2019,African Cup of Nations,Round of 16,Egypt,South Africa,0,1,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,,Arid
+2019-11-29,2019/20,CAF Champions League,Group Stage,Al Hilal,FC Platinum,2,1,False,Home Win,Sudan,Zimbabwe,East Africa,Southern Africa,Yes,380,1400,-1020,3897.9,Arid
+2019-11-29,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,Al Ahly,1,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,20,23,-3,2022.9,Mediterranean
+2019-11-29,2019/20,CAF Champions League,Group Stage,JS Kabylie,AS Vita Club,1,0,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,250,320,-70,4695.7,Mediterranean
+2019-11-30,2019/20,CAF Champions League,Group Stage,TP Mazembe,Zamalek,3,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4657.0,Tropical
+2019-11-30,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,Zesco United,1,1,False,Draw,Angola,Zambia,Southern Africa,Southern Africa,No,60,1280,-1220,1693.8,Tropical
+2019-11-30,2019/20,CAF Champions League,Group Stage,USM Alger,Wydad Casablanca,1,1,False,Draw,Algeria,Morocco,North Africa,North Africa,No,424,56,368,1031.7,Mediterranean
+2019-11-30,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,Petro de Luanda,3,0,False,Home Win,South Africa,Angola,Southern Africa,Southern Africa,No,1340,60,1280,2458.7,Semi-Arid
+2019-11-30,2019/20,CAF Champions League,Group Stage,Raja Casablanca,Esperance de Tunis,0,2,False,Away Win,Morocco,Tunisia,North Africa,North Africa,No,56,10,46,1651.8,Mediterranean
+2019-12-06,2019/20,CAF Champions League,Group Stage,Al Ahly,Al Hilal,2,1,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2019-12-06,2019/20,CAF Champions League,Group Stage,AS Vita Club,Raja Casablanca,0,1,False,Away Win,DR Congo,Morocco,Central Africa,North Africa,Yes,320,56,264,4854.4,Tropical
+2019-12-06,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,JS Kabylie,1,0,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,250,-240,494.8,Mediterranean
+2019-12-07,2019/20,CAF Champions League,Group Stage,Zesco United,TP Mazembe,1,2,False,Away Win,Zambia,DR Congo,Southern Africa,Central Africa,Yes,1280,1250,30,149.9,Tropical
+2019-12-07,2019/20,CAF Champions League,Group Stage,Zamalek,Primeiro de Agosto,2,0,False,Home Win,Egypt,Angola,North Africa,Southern Africa,Yes,23,60,-37,4734.8,Arid
+2019-12-07,2019/20,CAF Champions League,Group Stage,FC Platinum,Etoile du Sahel,0,3,False,Away Win,Zimbabwe,Tunisia,Southern Africa,North Africa,Yes,1400,20,1380,6469.7,Tropical
+2019-12-07,2019/20,CAF Champions League,Group Stage,Petro de Luanda,USM Alger,1,1,False,Draw,Angola,Algeria,Southern Africa,North Africa,Yes,60,424,-364,5177.2,Tropical
+2019-12-07,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,Mamelodi Sundowns,0,0,False,Draw,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2019-12-27,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,TP Mazembe,1,1,False,Draw,Angola,DR Congo,Southern Africa,Central Africa,Yes,60,1250,-1190,1589.7,Tropical
+2019-12-27,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,AS Vita Club,0,0,False,Draw,Tunisia,DR Congo,North Africa,Central Africa,Yes,10,320,-310,4605.4,Mediterranean
+2019-12-27,2019/20,CAF Champions League,Group Stage,Raja Casablanca,JS Kabylie,2,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,250,-194,1163.2,Mediterranean
+2019-12-28,2019/20,CAF Champions League,Group Stage,Zesco United,Zamalek,1,1,False,Draw,Zambia,Egypt,Southern Africa,North Africa,Yes,1280,23,1257,4777.5,Tropical
+2019-12-28,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,0,1,False,Away Win,Tunisia,Sudan,North Africa,East Africa,Yes,20,380,-360,3136.6,Mediterranean
+2019-12-28,2019/20,CAF Champions League,Group Stage,Al Ahly,FC Platinum,2,0,False,Home Win,Egypt,Zimbabwe,North Africa,Southern Africa,Yes,23,1400,-1377,5507.7,Arid
+2019-12-28,2019/20,CAF Champions League,Group Stage,USM Alger,Mamelodi Sundowns,0,1,False,Away Win,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1340,-916,7430.3,Mediterranean
+2019-12-28,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,4,1,False,Home Win,Morocco,Angola,North Africa,Southern Africa,Yes,56,60,-4,5203.8,Mediterranean
+2020-01-10,2019/20,CAF Champions League,Group Stage,Zamalek,Zesco United,2,0,False,Home Win,Egypt,Zambia,North Africa,Southern Africa,Yes,23,1280,-1257,4777.5,Arid
+2020-01-10,2019/20,CAF Champions League,Group Stage,JS Kabylie,Raja Casablanca,0,0,False,Draw,Algeria,Morocco,North Africa,North Africa,No,250,56,194,1163.2,Mediterranean
+2020-01-11,2019/20,CAF Champions League,Group Stage,TP Mazembe,Primeiro de Agosto,2,1,False,Home Win,DR Congo,Angola,Central Africa,Southern Africa,Yes,1250,60,1190,1589.7,Tropical
+2020-01-11,2019/20,CAF Champions League,Group Stage,FC Platinum,Al Ahly,1,1,False,Draw,Zimbabwe,Egypt,Southern Africa,North Africa,Yes,1400,23,1377,5507.7,Tropical
+2020-01-11,2019/20,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,2,False,Away Win,Sudan,Tunisia,East Africa,North Africa,Yes,380,20,360,3136.6,Arid
+2020-01-11,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,USM Alger,2,1,False,Home Win,South Africa,Algeria,Southern Africa,North Africa,Yes,1340,424,916,7430.3,Semi-Arid
+2020-01-11,2019/20,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,2,2,False,Draw,Angola,Morocco,Southern Africa,North Africa,Yes,60,56,4,5203.8,Tropical
+2020-01-11,2019/20,CAF Champions League,Group Stage,AS Vita Club,Esperance de Tunis,0,2,False,Away Win,DR Congo,Tunisia,Central Africa,North Africa,Yes,320,10,310,4605.4,Tropical
+2020-01-24,2019/20,CAF Champions League,Group Stage,Zamalek,TP Mazembe,0,0,False,Draw,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4657.0,Arid
+2020-01-24,2019/20,CAF Champions League,Group Stage,Wydad Casablanca,USM Alger,3,1,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,424,-368,1031.7,Mediterranean
+2020-01-25,2019/20,CAF Champions League,Group Stage,Zesco United,Primeiro de Agosto,1,1,False,Draw,Zambia,Angola,Southern Africa,Southern Africa,No,1280,60,1220,1693.8,Tropical
+2020-01-25,2019/20,CAF Champions League,Group Stage,FC Platinum,Al Hilal,0,1,False,Away Win,Zimbabwe,Sudan,Southern Africa,East Africa,Yes,1400,380,1020,3897.9,Tropical
+2020-01-25,2019/20,CAF Champions League,Group Stage,Petro de Luanda,Mamelodi Sundowns,2,2,False,Draw,Angola,South Africa,Southern Africa,Southern Africa,No,60,1340,-1280,2458.7,Tropical
+2020-01-25,2019/20,CAF Champions League,Group Stage,AS Vita Club,JS Kabylie,4,1,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,320,250,70,4695.7,Tropical
+2020-01-25,2019/20,CAF Champions League,Group Stage,Esperance de Tunis,Raja Casablanca,2,2,False,Draw,Tunisia,Morocco,North Africa,North Africa,No,10,56,-46,1651.8,Mediterranean
+2020-01-26,2019/20,CAF Champions League,Group Stage,Al Ahly,Etoile du Sahel,1,0,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,20,3,2022.9,Arid
+2020-02-01,2019/20,CAF Champions League,Group Stage,Primeiro de Agosto,Zamalek,0,0,False,Draw,Angola,Egypt,Southern Africa,North Africa,Yes,60,23,37,4734.8,Tropical
+2020-02-01,2019/20,CAF Champions League,Group Stage,TP Mazembe,Zesco United,3,1,False,Home Win,DR Congo,Zambia,Central Africa,Southern Africa,Yes,1250,1280,-30,149.9,Tropical
+2020-02-01,2019/20,CAF Champions League,Group Stage,Al Hilal,Al Ahly,1,1,False,Draw,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2020-02-01,2019/20,CAF Champions League,Group Stage,Etoile du Sahel,FC Platinum,2,0,False,Home Win,Tunisia,Zimbabwe,North Africa,Southern Africa,Yes,20,1400,-1380,6469.7,Mediterranean
+2020-02-01,2019/20,CAF Champions League,Group Stage,Mamelodi Sundowns,Wydad Casablanca,1,0,False,Home Win,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2020-02-01,2019/20,CAF Champions League,Group Stage,USM Alger,Petro de Luanda,2,2,False,Draw,Algeria,Angola,North Africa,Southern Africa,Yes,424,60,364,5177.2,Mediterranean
+2020-02-01,2019/20,CAF Champions League,Group Stage,JS Kabylie,Esperance de Tunis,1,0,False,Home Win,Algeria,Tunisia,North Africa,North Africa,No,250,10,240,494.8,Mediterranean
+2020-02-01,2019/20,CAF Champions League,Group Stage,Raja Casablanca,AS Vita Club,1,0,False,Home Win,Morocco,DR Congo,North Africa,Central Africa,Yes,56,320,-264,4854.4,Mediterranean
+2020-02-28,2019/20,CAF Champions League,Quarter-final,Zamalek,Esperance de Tunis,3,1,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2020-02-28,2019/20,CAF Champions League,Quarter-final,Raja Casablanca,TP Mazembe,2,0,False,Home Win,Morocco,DR Congo,North Africa,Central Africa,Yes,56,1250,-1194,6250.8,Mediterranean
+2020-02-29,2019/20,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,2,0,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2020-02-29,2019/20,CAF Champions League,Quarter-final,Wydad Casablanca,Etoile du Sahel,2,0,False,Home Win,Morocco,Tunisia,North Africa,North Africa,No,56,20,36,1682.2,Mediterranean
+2020-03-06,2019/20,CAF Champions League,Quarter-final,Esperance de Tunis,Zamalek,1,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2020-03-07,2019/20,CAF Champions League,Quarter-final,TP Mazembe,Raja Casablanca,1,0,False,Home Win,DR Congo,Morocco,Central Africa,North Africa,Yes,1250,56,1194,6250.8,Tropical
+2020-03-07,2019/20,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,1,1,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2020-03-07,2019/20,CAF Champions League,Quarter-final,Etoile du Sahel,Wydad Casablanca,1,0,False,Home Win,Tunisia,Morocco,North Africa,North Africa,No,20,56,-36,1682.2,Mediterranean
+2020-10-17,2019/20,CAF Champions League,Semi-final,Wydad Casablanca,Al Ahly,0,2,False,Away Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2020-10-18,2019/20,CAF Champions League,Semi-final,Raja Casablanca,Zamalek,0,1,False,Away Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2020-10-23,2019/20,CAF Champions League,Semi-final,Al Ahly,Wydad Casablanca,3,1,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2020-11-04,2019/20,CAF Champions League,Semi-final,Zamalek,Raja Casablanca,3,1,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2021-02-12,2020/21,CAF Champions League,Group Stage,AS Vita Club,Simba SC,0,1,False,Away Win,DR Congo,Tanzania,Central Africa,East Africa,Yes,320,55,265,2657.3,Tropical
+2021-02-12,2020/21,CAF Champions League,Group Stage,Zamalek,MC Alger,0,0,False,Draw,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2021-02-13,2020/21,CAF Champions League,Group Stage,TP Mazembe,CR Belouizdad,0,0,False,Draw,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,424,826,5956.3,Tropical
+2021-02-13,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,2,0,False,Home Win,South Africa,Sudan,Southern Africa,East Africa,Yes,1340,380,960,4610.5,Semi-Arid
+2021-02-13,2020/21,CAF Champions League,Group Stage,Horoya AC,Petro de Luanda,2,0,False,Home Win,Guinea,Angola,West Africa,Southern Africa,Yes,30,60,-30,3610.1,Tropical
+2021-02-13,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,Teungueth FC,2,1,False,Home Win,Tunisia,Senegal,North Africa,West Africa,Yes,10,10,0,3664.0,Mediterranean
+2021-02-16,2020/21,CAF Champions League,Group Stage,Al Ahly,Al Merreikh,3,0,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2021-02-23,2020/21,CAF Champions League,Group Stage,Al Merreikh,AS Vita Club,1,4,False,Away Win,Sudan,DR Congo,East Africa,Central Africa,Yes,380,320,60,2909.4,Arid
+2021-02-23,2020/21,CAF Champions League,Group Stage,Simba SC,Al Ahly,1,0,False,Home Win,Tanzania,Egypt,East Africa,North Africa,Yes,55,23,32,4185.2,Tropical
+2021-02-23,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,0,1,False,Away Win,Angola,Morocco,Southern Africa,North Africa,Yes,60,56,4,5203.8,Tropical
+2021-02-23,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Horoya AC,0,0,False,Draw,South Africa,Guinea,Southern Africa,West Africa,Yes,1753,30,1723,6008.7,Semi-Arid
+2021-02-23,2020/21,CAF Champions League,Group Stage,Teungueth FC,Zamalek,0,0,False,Draw,Senegal,Egypt,West Africa,North Africa,Yes,10,23,-13,5235.3,Arid
+2021-02-23,2020/21,CAF Champions League,Group Stage,MC Alger,Esperance de Tunis,1,1,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,424,10,414,631.8,Mediterranean
+2021-02-24,2020/21,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,0,0,False,Draw,Sudan,DR Congo,East Africa,Central Africa,Yes,380,1250,-870,3071.6,Arid
+2021-02-28,2020/21,CAF Champions League,Group Stage,CR Belouizdad,Mamelodi Sundowns,1,5,False,Away Win,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1340,-916,7430.3,Mediterranean
+2021-02-28,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Kaizer Chiefs,4,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1753,-1697,7638.3,Mediterranean
+2021-03-05,2020/21,CAF Champions League,Group Stage,CR Belouizdad,Al Hilal,1,1,False,Draw,Algeria,Sudan,North Africa,East Africa,Yes,424,380,44,3745.0,Mediterranean
+2021-03-06,2020/21,CAF Champions League,Group Stage,Al Merreikh,Simba SC,0,0,False,Draw,Sudan,Tanzania,East Africa,East Africa,No,380,55,325,2584.8,Arid
+2021-03-06,2020/21,CAF Champions League,Group Stage,Al Ahly,AS Vita Club,2,2,False,Draw,Egypt,DR Congo,North Africa,Central Africa,Yes,23,320,-297,4183.6,Arid
+2021-03-06,2020/21,CAF Champions League,Group Stage,TP Mazembe,Mamelodi Sundowns,1,2,False,Away Win,DR Congo,South Africa,Central Africa,Southern Africa,Yes,1250,1340,-90,1568.4,Tropical
+2021-03-06,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Petro de Luanda,2,0,False,Home Win,South Africa,Angola,Southern Africa,Southern Africa,No,1753,60,1693,2484.1,Semi-Arid
+2021-03-06,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Horoya AC,2,0,False,Home Win,Morocco,Guinea,North Africa,West Africa,Yes,56,30,26,2730.7,Mediterranean
+2021-03-06,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,Zamalek,3,1,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2021-03-06,2020/21,CAF Champions League,Group Stage,Teungueth FC,MC Alger,0,1,False,Away Win,Senegal,Algeria,West Africa,North Africa,Yes,10,424,-414,3173.1,Arid
+2021-03-16,2020/21,CAF Champions League,Group Stage,AS Vita Club,Al Ahly,0,3,False,Away Win,DR Congo,Egypt,Central Africa,North Africa,Yes,320,23,297,4183.6,Tropical
+2021-03-16,2020/21,CAF Champions League,Group Stage,Simba SC,Al Merreikh,3,0,False,Home Win,Tanzania,Sudan,East Africa,East Africa,No,55,380,-325,2584.8,Tropical
+2021-03-16,2020/21,CAF Champions League,Group Stage,Al Hilal,CR Belouizdad,0,0,False,Draw,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2021-03-16,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,TP Mazembe,1,0,False,Home Win,South Africa,DR Congo,Southern Africa,Central Africa,Yes,1340,1250,90,1568.4,Semi-Arid
+2021-03-16,2020/21,CAF Champions League,Group Stage,Horoya AC,Wydad Casablanca,0,0,False,Draw,Guinea,Morocco,West Africa,North Africa,Yes,30,56,-26,2730.7,Tropical
+2021-03-16,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Kaizer Chiefs,0,0,False,Draw,Angola,South Africa,Southern Africa,Southern Africa,No,60,1753,-1693,2484.1,Tropical
+2021-03-16,2020/21,CAF Champions League,Group Stage,MC Alger,Teungueth FC,1,0,False,Home Win,Algeria,Senegal,North Africa,West Africa,Yes,424,10,414,3173.1,Mediterranean
+2021-03-16,2020/21,CAF Champions League,Group Stage,Zamalek,Esperance de Tunis,0,1,False,Away Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2021-04-02,2020/21,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,0,0,False,Draw,Sudan,South Africa,East Africa,Southern Africa,Yes,380,1340,-960,4610.5,Arid
+2021-04-02,2020/21,CAF Champions League,Group Stage,CR Belouizdad,TP Mazembe,2,0,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,424,1250,-826,5956.3,Mediterranean
+2021-04-03,2020/21,CAF Champions League,Group Stage,Al Merreikh,Al Ahly,2,2,False,Draw,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2021-04-03,2020/21,CAF Champions League,Group Stage,Simba SC,AS Vita Club,4,1,False,Home Win,Tanzania,DR Congo,East Africa,Central Africa,Yes,55,320,-265,2657.3,Tropical
+2021-04-03,2020/21,CAF Champions League,Group Stage,Kaizer Chiefs,Wydad Casablanca,1,0,False,Home Win,South Africa,Morocco,Southern Africa,North Africa,Yes,1753,56,1697,7638.3,Semi-Arid
+2021-04-03,2020/21,CAF Champions League,Group Stage,Petro de Luanda,Horoya AC,0,1,False,Away Win,Angola,Guinea,Southern Africa,West Africa,Yes,60,30,30,3610.1,Tropical
+2021-04-03,2020/21,CAF Champions League,Group Stage,Teungueth FC,Esperance de Tunis,2,1,False,Home Win,Senegal,Tunisia,West Africa,North Africa,Yes,10,10,0,3664.0,Arid
+2021-04-03,2020/21,CAF Champions League,Group Stage,MC Alger,Zamalek,0,2,False,Away Win,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2021-04-09,2020/21,CAF Champions League,Group Stage,Al Ahly,Simba SC,1,0,False,Home Win,Egypt,Tanzania,North Africa,East Africa,Yes,23,55,-32,4185.2,Arid
+2021-04-09,2020/21,CAF Champions League,Group Stage,AS Vita Club,Al Merreikh,3,1,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,320,380,-60,2909.4,Tropical
+2021-04-09,2020/21,CAF Champions League,Group Stage,Mamelodi Sundowns,CR Belouizdad,0,2,False,Away Win,South Africa,Algeria,Southern Africa,North Africa,Yes,1340,424,916,7430.3,Semi-Arid
+2021-04-09,2020/21,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,2,1,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2021-04-10,2020/21,CAF Champions League,Group Stage,Horoya AC,Kaizer Chiefs,2,2,False,Draw,Guinea,South Africa,West Africa,Southern Africa,Yes,30,1753,-1723,6008.7,Tropical
+2021-04-10,2020/21,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,2,0,False,Home Win,Morocco,Angola,North Africa,Southern Africa,Yes,56,60,-4,5203.8,Mediterranean
+2021-04-10,2020/21,CAF Champions League,Group Stage,Esperance de Tunis,MC Alger,1,1,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,10,424,-414,631.8,Mediterranean
+2021-04-10,2020/21,CAF Champions League,Group Stage,Zamalek,Teungueth FC,4,1,False,Home Win,Egypt,Senegal,North Africa,West Africa,Yes,23,10,13,5235.3,Arid
+2021-05-14,2020/21,CAF Champions League,Quarter-final,MC Alger,Wydad Casablanca,1,1,False,Draw,Algeria,Morocco,North Africa,North Africa,No,424,56,368,1031.7,Mediterranean
+2021-05-15,2020/21,CAF Champions League,Quarter-final,Al Ahly,Mamelodi Sundowns,2,0,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2021-05-15,2020/21,CAF Champions League,Quarter-final,CR Belouizdad,Esperance de Tunis,2,0,False,Home Win,Algeria,Tunisia,North Africa,North Africa,No,424,10,414,631.8,Mediterranean
+2021-05-15,2020/21,CAF Champions League,Quarter-final,Kaizer Chiefs,Simba SC,4,0,False,Home Win,South Africa,Tanzania,Southern Africa,East Africa,Yes,1753,55,1698,2461.2,Semi-Arid
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Wydad Casablanca,MC Alger,1,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,424,-368,1031.7,Mediterranean
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Mamelodi Sundowns,Al Ahly,1,1,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Esperance de Tunis,CR Belouizdad,2,0,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,424,-414,631.8,Mediterranean
+2021-05-22,2020/21,CAF Champions League,Quarter-final,Simba SC,Kaizer Chiefs,3,0,False,Home Win,Tanzania,South Africa,East Africa,Southern Africa,Yes,55,1753,-1698,2461.2,Tropical
+2021-06-19,2020/21,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,0,1,False,Away Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2021-06-19,2020/21,CAF Champions League,Semi-final,Wydad Casablanca,Kaizer Chiefs,0,1,False,Away Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1753,-1697,7638.3,Mediterranean
+2021-06-26,2020/21,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,3,0,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2021-06-26,2020/21,CAF Champions League,Semi-final,Kaizer Chiefs,Wydad Casablanca,0,0,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1753,56,1697,7638.3,Semi-Arid
+2022-01-09,2021,African Cup of Nations,Group Stage,Cameroon,Burkina Faso,2,1,False,Home Win,Cameroon,Burkina Faso,Central Africa,West Africa,Yes,750,310,440,,Tropical
+2022-01-13,2021,African Cup of Nations,Group Stage,Cameroon,Ethiopia,4,1,False,Home Win,Cameroon,Ethiopia,Central Africa,East Africa,Yes,750,2355,-1605,,Tropical
+2022-01-17,2021,African Cup of Nations,Group Stage,Cameroon,Cape Verde,1,1,False,Draw,Cameroon,Cape Verde,Central Africa,West Africa,Yes,750,40,710,,Tropical
+2022-01-24,2021,African Cup of Nations,Round of 16,Cameroon,Comoros,2,1,False,Home Win,Cameroon,Comoros,Central Africa,Southern Africa,Yes,750,30,720,,Tropical
+2022-01-29,2021,African Cup of Nations,Quarter-final,Cameroon,Gambia,2,0,False,Home Win,Cameroon,Gambia,Central Africa,West Africa,Yes,750,30,720,,Tropical
+2022-02-03,2021,African Cup of Nations,Semi-final,Cameroon,Egypt,0,0,False,Draw,Cameroon,Egypt,Central Africa,North Africa,Yes,750,23,727,,Tropical
+2022-02-05,2021,African Cup of Nations,3rd Place,Cameroon,Burkina Faso,3,3,False,Draw,Cameroon,Burkina Faso,Central Africa,West Africa,Yes,750,310,440,,Tropical
+2022-02-11,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,1,0,False,Home Win,South Africa,Sudan,Southern Africa,East Africa,Yes,1340,380,960,4610.5,Semi-Arid
+2022-02-11,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,CR Belouizdad,0,0,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,20,424,-404,684.0,Mediterranean
+2022-02-11,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Sagrada Esperanca,3,0,False,Home Win,Morocco,Angola,North Africa,Southern Africa,Yes,56,1350,-1294,5502.1,Mediterranean
+2022-02-12,2021/22,CAF Champions League,Group Stage,Horoya AC,ES Setif,0,1,False,Away Win,Guinea,Algeria,West Africa,North Africa,Yes,30,1096,-1066,3519.5,Tropical
+2022-02-12,2021/22,CAF Champions League,Group Stage,Raja Casablanca,AmaZulu,1,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,10,46,8137.7,Mediterranean
+2022-02-12,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,Jwaneng Galaxy,4,0,False,Home Win,Tunisia,Botswana,North Africa,Southern Africa,Yes,10,1100,-1090,6996.5,Mediterranean
+2022-02-12,2021/22,CAF Champions League,Group Stage,Zamalek,Petro de Luanda,2,2,False,Draw,Egypt,Angola,North Africa,Southern Africa,Yes,23,60,-37,4734.8,Arid
+2022-02-18,2021/22,CAF Champions League,Group Stage,Al Hilal,Al Ahly,0,0,False,Draw,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2022-02-18,2021/22,CAF Champions League,Group Stage,AmaZulu,Horoya AC,1,0,False,Home Win,South Africa,Guinea,Southern Africa,West Africa,Yes,10,30,-20,6483.2,Subtropical
+2022-02-18,2021/22,CAF Champions League,Group Stage,ES Setif,Raja Casablanca,0,1,False,Away Win,Algeria,Morocco,North Africa,North Africa,No,1096,56,1040,1220.0,Semi-Arid
+2022-02-19,2021/22,CAF Champions League,Group Stage,Al Merreikh,Mamelodi Sundowns,0,0,False,Draw,Sudan,South Africa,East Africa,Southern Africa,Yes,380,1340,-960,4610.5,Arid
+2022-02-19,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,Etoile du Sahel,1,1,False,Draw,Botswana,Tunisia,Southern Africa,North Africa,Yes,1100,20,1080,6880.6,Semi-Arid
+2022-02-19,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Esperance de Tunis,1,1,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,424,10,414,631.8,Mediterranean
+2022-02-19,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,2,1,False,Home Win,Angola,Morocco,Southern Africa,North Africa,Yes,60,56,4,5203.8,Tropical
+2022-02-19,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Zamalek,0,0,False,Draw,Angola,Egypt,Southern Africa,North Africa,Yes,1350,23,1327,4834.1,Tropical
+2022-02-25,2021/22,CAF Champions League,Group Stage,Al Merreikh,Al Hilal,2,1,False,Home Win,Sudan,Sudan,East Africa,East Africa,No,380,380,0,0.0,Arid
+2022-02-25,2021/22,CAF Champions League,Group Stage,AmaZulu,ES Setif,1,0,False,Home Win,South Africa,Algeria,Southern Africa,North Africa,Yes,10,1096,-1086,7816.3,Subtropical
+2022-02-25,2021/22,CAF Champions League,Group Stage,Raja Casablanca,Horoya AC,1,0,False,Home Win,Morocco,Guinea,North Africa,West Africa,Yes,56,30,26,2730.7,Mediterranean
+2022-02-26,2021/22,CAF Champions League,Group Stage,Al Ahly,Mamelodi Sundowns,0,1,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2022-02-26,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,Etoile du Sahel,0,0,False,Draw,Tunisia,Tunisia,North Africa,North Africa,No,10,20,-10,116.5,Mediterranean
+2022-02-26,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,CR Belouizdad,1,2,False,Away Win,Botswana,Algeria,Southern Africa,North Africa,Yes,1100,424,676,7188.0,Semi-Arid
+2022-02-26,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Petro de Luanda,0,1,False,Away Win,Angola,Angola,Southern Africa,Southern Africa,No,1350,60,1290,332.7,Tropical
+2022-02-26,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Zamalek,3,1,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2022-03-05,2021/22,CAF Champions League,Group Stage,Al Ahly,Al Merreikh,3,2,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2022-03-11,2021/22,CAF Champions League,Group Stage,Al Hilal,Al Merreikh,1,0,False,Home Win,Sudan,Sudan,East Africa,East Africa,No,380,380,0,0.0,Arid
+2022-03-11,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Jwaneng Galaxy,4,1,False,Home Win,Algeria,Botswana,North Africa,Southern Africa,Yes,424,1100,-676,7188.0,Mediterranean
+2022-03-11,2021/22,CAF Champions League,Group Stage,Zamalek,Wydad Casablanca,0,1,False,Away Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2022-03-12,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Ahly,1,0,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2022-03-12,2021/22,CAF Champions League,Group Stage,Horoya AC,Raja Casablanca,2,1,False,Home Win,Guinea,Morocco,West Africa,North Africa,Yes,30,56,-26,2730.7,Tropical
+2022-03-12,2021/22,CAF Champions League,Group Stage,ES Setif,AmaZulu,2,0,False,Home Win,Algeria,South Africa,North Africa,Southern Africa,Yes,1096,10,1086,7816.3,Semi-Arid
+2022-03-12,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,Esperance de Tunis,0,2,False,Away Win,Tunisia,Tunisia,North Africa,North Africa,No,20,10,10,116.5,Mediterranean
+2022-03-12,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Sagrada Esperanca,3,0,False,Home Win,Angola,Angola,Southern Africa,Southern Africa,No,60,1350,-1290,332.7,Tropical
+2022-03-18,2021/22,CAF Champions League,Group Stage,Al Merreikh,Al Ahly,1,3,False,Away Win,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2022-03-18,2021/22,CAF Champions League,Group Stage,AmaZulu,Raja Casablanca,0,2,False,Away Win,South Africa,Morocco,Southern Africa,North Africa,Yes,10,56,-46,8137.7,Subtropical
+2022-03-18,2021/22,CAF Champions League,Group Stage,ES Setif,Horoya AC,3,2,False,Home Win,Algeria,Guinea,North Africa,West Africa,Yes,1096,30,1066,3519.5,Semi-Arid
+2022-03-19,2021/22,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,2,4,False,Away Win,Sudan,South Africa,East Africa,Southern Africa,Yes,380,1340,-960,4610.5,Arid
+2022-03-19,2021/22,CAF Champions League,Group Stage,Jwaneng Galaxy,Esperance de Tunis,0,3,False,Away Win,Botswana,Tunisia,Southern Africa,North Africa,Yes,1100,10,1090,6996.5,Semi-Arid
+2022-03-19,2021/22,CAF Champions League,Group Stage,CR Belouizdad,Etoile du Sahel,2,0,False,Home Win,Algeria,Tunisia,North Africa,North Africa,No,424,20,404,684.0,Mediterranean
+2022-03-19,2021/22,CAF Champions League,Group Stage,Petro de Luanda,Zamalek,0,0,False,Draw,Angola,Egypt,Southern Africa,North Africa,Yes,60,23,37,4734.8,Tropical
+2022-03-19,2021/22,CAF Champions League,Group Stage,Sagrada Esperanca,Wydad Casablanca,1,2,False,Away Win,Angola,Morocco,Southern Africa,North Africa,Yes,1350,56,1294,5502.1,Tropical
+2022-04-01,2021/22,CAF Champions League,Group Stage,Horoya AC,AmaZulu,1,1,False,Draw,Guinea,South Africa,West Africa,Southern Africa,Yes,30,10,20,6483.2,Tropical
+2022-04-01,2021/22,CAF Champions League,Group Stage,Etoile du Sahel,Jwaneng Galaxy,3,2,False,Home Win,Tunisia,Botswana,North Africa,Southern Africa,Yes,20,1100,-1080,6880.6,Mediterranean
+2022-04-01,2021/22,CAF Champions League,Group Stage,Zamalek,Sagrada Esperanca,0,0,False,Draw,Egypt,Angola,North Africa,Southern Africa,Yes,23,1350,-1327,4834.1,Arid
+2022-04-02,2021/22,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Merreikh,3,0,False,Home Win,South Africa,Sudan,Southern Africa,East Africa,Yes,1340,380,960,4610.5,Semi-Arid
+2022-04-02,2021/22,CAF Champions League,Group Stage,Esperance de Tunis,CR Belouizdad,2,1,False,Home Win,Tunisia,Algeria,North Africa,North Africa,No,10,424,-414,631.8,Mediterranean
+2022-04-02,2021/22,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,5,1,False,Home Win,Morocco,Angola,North Africa,Southern Africa,Yes,56,60,-4,5203.8,Mediterranean
+2022-04-03,2021/22,CAF Champions League,Group Stage,Al Ahly,Al Hilal,1,0,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2022-04-03,2021/22,CAF Champions League,Group Stage,Raja Casablanca,ES Setif,1,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,1096,-1040,1220.0,Mediterranean
+2022-04-15,2021/22,CAF Champions League,Quarter-final,ES Setif,Esperance de Tunis,0,0,False,Draw,Algeria,Tunisia,North Africa,North Africa,No,1096,10,1086,431.9,Semi-Arid
+2022-04-16,2021/22,CAF Champions League,Quarter-final,Petro de Luanda,Mamelodi Sundowns,2,1,False,Home Win,Angola,South Africa,Southern Africa,Southern Africa,No,60,1340,-1280,2458.7,Tropical
+2022-04-16,2021/22,CAF Champions League,Quarter-final,Al Ahly,Raja Casablanca,2,1,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2022-04-16,2021/22,CAF Champions League,Quarter-final,CR Belouizdad,Wydad Casablanca,0,1,False,Away Win,Algeria,Morocco,North Africa,North Africa,No,424,56,368,1031.7,Mediterranean
+2022-04-22,2021/22,CAF Champions League,Quarter-final,Esperance de Tunis,ES Setif,0,1,False,Away Win,Tunisia,Algeria,North Africa,North Africa,No,10,1096,-1086,431.9,Mediterranean
+2022-04-23,2021/22,CAF Champions League,Quarter-final,Mamelodi Sundowns,Petro de Luanda,1,1,False,Draw,South Africa,Angola,Southern Africa,Southern Africa,No,1340,60,1280,2458.7,Semi-Arid
+2022-04-23,2021/22,CAF Champions League,Quarter-final,Raja Casablanca,Al Ahly,1,1,False,Draw,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2022-04-24,2021/22,CAF Champions League,Quarter-final,Wydad Casablanca,CR Belouizdad,0,0,False,Draw,Morocco,Algeria,North Africa,North Africa,No,56,424,-368,1031.7,Mediterranean
+2022-05-07,2021/22,CAF Champions League,Semi-final,Petro de Luanda,Wydad Casablanca,1,3,False,Away Win,Angola,Morocco,Southern Africa,North Africa,Yes,60,56,4,5203.8,Tropical
+2022-05-07,2021/22,CAF Champions League,Semi-final,Al Ahly,ES Setif,4,0,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,1096,-1073,2492.3,Arid
+2022-05-13,2021/22,CAF Champions League,Semi-final,Wydad Casablanca,Petro de Luanda,1,1,False,Draw,Morocco,Angola,North Africa,Southern Africa,Yes,56,60,-4,5203.8,Mediterranean
+2022-05-14,2021/22,CAF Champions League,Semi-final,ES Setif,Al Ahly,2,2,False,Draw,Algeria,Egypt,North Africa,North Africa,No,1096,23,1073,2492.3,Semi-Arid
+2023-02-10,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Vipers,5,0,False,Home Win,Morocco,Uganda,North Africa,East Africa,Yes,56,1200,-1144,5583.0,Mediterranean
+2023-02-10,2022/23,CAF Champions League,Group Stage,Zamalek,CR Belouizdad,0,1,False,Away Win,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2023-02-11,2022/23,CAF Champions League,Group Stage,Petro de Luanda,JS Kabylie,0,0,False,Draw,Angola,Algeria,Southern Africa,North Africa,Yes,60,250,-190,5142.7,Tropical
+2023-02-11,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Hilal,1,0,False,Home Win,South Africa,Sudan,Southern Africa,East Africa,Yes,1340,380,960,4610.5,Semi-Arid
+2023-02-11,2022/23,CAF Champions League,Group Stage,Horoya AC,Simba SC,1,0,False,Home Win,Guinea,Tanzania,West Africa,East Africa,Yes,30,55,-25,6126.0,Tropical
+2023-02-11,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,Al Merreikh,1,0,False,Home Win,Tunisia,Sudan,North Africa,East Africa,Yes,10,380,-370,3238.7,Mediterranean
+2023-02-17,2022/23,CAF Champions League,Group Stage,JS Kabylie,Wydad Casablanca,1,0,False,Home Win,Algeria,Morocco,North Africa,North Africa,No,250,56,194,1163.2,Mediterranean
+2023-02-17,2022/23,CAF Champions League,Group Stage,Cotonsport,Mamelodi Sundowns,1,3,False,Away Win,Cameroon,South Africa,Central Africa,Southern Africa,Yes,358,1340,-982,4177.7,Tropical
+2023-02-17,2022/23,CAF Champions League,Group Stage,Al Merreikh,Zamalek,0,0,False,Draw,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2023-02-18,2022/23,CAF Champions League,Group Stage,AS Vita Club,Petro de Luanda,1,2,False,Away Win,DR Congo,Angola,Central Africa,Southern Africa,Yes,320,60,260,551.4,Tropical
+2023-02-18,2022/23,CAF Champions League,Group Stage,Al Hilal,Al Ahly,1,0,False,Home Win,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2023-02-18,2022/23,CAF Champions League,Group Stage,Vipers,Horoya AC,0,0,False,Draw,Uganda,Guinea,East Africa,West Africa,Yes,1200,30,1170,5210.0,Tropical
+2023-02-18,2022/23,CAF Champions League,Group Stage,Simba SC,Raja Casablanca,0,3,False,Away Win,Tanzania,Morocco,East Africa,North Africa,Yes,55,56,-1,6664.6,Tropical
+2023-02-18,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Esperance de Tunis,0,1,False,Away Win,Algeria,Tunisia,North Africa,North Africa,No,424,10,414,631.8,Mediterranean
+2023-02-24,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,Petro de Luanda,1,0,False,Home Win,Morocco,Angola,North Africa,Southern Africa,Yes,56,60,-4,5203.8,Mediterranean
+2023-02-24,2022/23,CAF Champions League,Group Stage,Cotonsport,Al Hilal,1,2,False,Away Win,Cameroon,Sudan,Central Africa,East Africa,Yes,358,380,-22,2096.4,Tropical
+2023-02-24,2022/23,CAF Champions League,Group Stage,Al Merreikh,CR Belouizdad,1,0,False,Home Win,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2023-02-25,2022/23,CAF Champions League,Group Stage,AS Vita Club,JS Kabylie,1,0,False,Home Win,DR Congo,Algeria,Central Africa,North Africa,Yes,320,250,70,4695.7,Tropical
+2023-02-25,2022/23,CAF Champions League,Group Stage,Al Ahly,Mamelodi Sundowns,2,2,False,Draw,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2023-02-25,2022/23,CAF Champions League,Group Stage,Vipers,Simba SC,0,1,False,Away Win,Uganda,Tanzania,East Africa,East Africa,No,1200,55,1145,1082.0,Tropical
+2023-02-25,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Horoya AC,2,0,False,Home Win,Morocco,Guinea,North Africa,West Africa,Yes,56,30,26,2730.7,Mediterranean
+2023-02-25,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,Zamalek,2,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2023-03-03,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,AS Vita Club,1,0,False,Home Win,Morocco,DR Congo,North Africa,Central Africa,Yes,56,320,-264,4854.4,Mediterranean
+2023-03-04,2022/23,CAF Champions League,Group Stage,Al Ahly,Cotonsport,3,0,False,Home Win,Egypt,Cameroon,North Africa,Central Africa,Yes,23,358,-335,2902.2,Arid
+2023-03-07,2022/23,CAF Champions League,Group Stage,Al Hilal,Cotonsport,2,0,False,Home Win,Sudan,Cameroon,East Africa,Central Africa,Yes,380,358,22,2096.4,Arid
+2023-03-07,2022/23,CAF Champions League,Group Stage,Horoya AC,Raja Casablanca,1,3,False,Away Win,Guinea,Morocco,West Africa,North Africa,Yes,30,56,-26,2730.7,Tropical
+2023-03-07,2022/23,CAF Champions League,Group Stage,Simba SC,Vipers,1,0,False,Home Win,Tanzania,Uganda,East Africa,East Africa,No,55,1200,-1145,1082.0,Tropical
+2023-03-07,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Al Merreikh,1,0,False,Home Win,Algeria,Sudan,North Africa,East Africa,Yes,424,380,44,3745.0,Mediterranean
+2023-03-07,2022/23,CAF Champions League,Group Stage,Zamalek,Esperance de Tunis,3,1,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2023-03-11,2022/23,CAF Champions League,Group Stage,Petro de Luanda,Wydad Casablanca,0,2,False,Away Win,Angola,Morocco,Southern Africa,North Africa,Yes,60,56,4,5203.8,Tropical
+2023-03-11,2022/23,CAF Champions League,Group Stage,JS Kabylie,AS Vita Club,2,1,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,250,320,-70,4695.7,Mediterranean
+2023-03-11,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Al Ahly,5,2,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2023-03-17,2022/23,CAF Champions League,Group Stage,Cotonsport,Al Ahly,0,4,False,Away Win,Cameroon,Egypt,Central Africa,North Africa,Yes,358,23,335,2902.2,Tropical
+2023-03-17,2022/23,CAF Champions League,Group Stage,Al Merreikh,Esperance de Tunis,1,1,False,Draw,Sudan,Tunisia,East Africa,North Africa,Yes,380,10,370,3238.7,Arid
+2023-03-17,2022/23,CAF Champions League,Group Stage,CR Belouizdad,Zamalek,2,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2023-03-18,2022/23,CAF Champions League,Group Stage,AS Vita Club,Wydad Casablanca,0,0,False,Draw,DR Congo,Morocco,Central Africa,North Africa,Yes,320,56,264,4854.4,Tropical
+2023-03-18,2022/23,CAF Champions League,Group Stage,JS Kabylie,Petro de Luanda,1,0,False,Home Win,Algeria,Angola,North Africa,Southern Africa,Yes,250,60,190,5142.7,Mediterranean
+2023-03-18,2022/23,CAF Champions League,Group Stage,Al Hilal,Mamelodi Sundowns,1,1,False,Draw,Sudan,South Africa,East Africa,Southern Africa,Yes,380,1340,-960,4610.5,Arid
+2023-03-18,2022/23,CAF Champions League,Group Stage,Simba SC,Horoya AC,7,0,False,Home Win,Tanzania,Guinea,East Africa,West Africa,Yes,55,30,25,6126.0,Tropical
+2023-03-18,2022/23,CAF Champions League,Group Stage,Vipers,Raja Casablanca,1,1,False,Draw,Uganda,Morocco,East Africa,North Africa,Yes,1200,56,1144,5583.0,Tropical
+2023-03-31,2022/23,CAF Champions League,Group Stage,Horoya AC,Vipers,2,0,False,Home Win,Guinea,Uganda,West Africa,East Africa,Yes,30,1200,-1170,5210.0,Tropical
+2023-03-31,2022/23,CAF Champions League,Group Stage,Zamalek,Al Merreikh,4,3,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2023-04-01,2022/23,CAF Champions League,Group Stage,Petro de Luanda,AS Vita Club,1,0,False,Home Win,Angola,DR Congo,Southern Africa,Central Africa,Yes,60,320,-260,551.4,Tropical
+2023-04-01,2022/23,CAF Champions League,Group Stage,Wydad Casablanca,JS Kabylie,3,0,False,Home Win,Morocco,Algeria,North Africa,North Africa,No,56,250,-194,1163.2,Mediterranean
+2023-04-01,2022/23,CAF Champions League,Group Stage,Al Ahly,Al Hilal,3,0,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2023-04-01,2022/23,CAF Champions League,Group Stage,Mamelodi Sundowns,Cotonsport,2,1,False,Home Win,South Africa,Cameroon,Southern Africa,Central Africa,Yes,1340,358,982,4177.7,Semi-Arid
+2023-04-01,2022/23,CAF Champions League,Group Stage,Raja Casablanca,Simba SC,3,1,False,Home Win,Morocco,Tanzania,North Africa,East Africa,Yes,56,55,1,6664.6,Mediterranean
+2023-04-01,2022/23,CAF Champions League,Group Stage,Esperance de Tunis,CR Belouizdad,0,0,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,10,424,-414,631.8,Mediterranean
+2023-04-21,2022/23,CAF Champions League,Quarter-final,JS Kabylie,Esperance de Tunis,0,1,False,Away Win,Algeria,Tunisia,North Africa,North Africa,No,250,10,240,494.8,Mediterranean
+2023-04-22,2022/23,CAF Champions League,Quarter-final,Simba SC,Wydad Casablanca,1,0,False,Home Win,Tanzania,Morocco,East Africa,North Africa,Yes,55,56,-1,6664.6,Tropical
+2023-04-22,2022/23,CAF Champions League,Quarter-final,Al Ahly,Raja Casablanca,2,0,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2023-04-22,2022/23,CAF Champions League,Quarter-final,CR Belouizdad,Mamelodi Sundowns,1,4,False,Away Win,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1340,-916,7430.3,Mediterranean
+2023-04-28,2022/23,CAF Champions League,Quarter-final,Wydad Casablanca,Simba SC,1,0,False,Home Win,Morocco,Tanzania,North Africa,East Africa,Yes,56,55,1,6664.6,Mediterranean
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Esperance de Tunis,JS Kabylie,1,1,False,Draw,Tunisia,Algeria,North Africa,North Africa,No,10,250,-240,494.8,Mediterranean
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Raja Casablanca,Al Ahly,0,0,False,Draw,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2023-04-29,2022/23,CAF Champions League,Quarter-final,Mamelodi Sundowns,CR Belouizdad,2,1,False,Home Win,South Africa,Algeria,Southern Africa,North Africa,Yes,1340,424,916,7430.3,Semi-Arid
+2023-05-12,2022/23,CAF Champions League,Semi-final,Esperance de Tunis,Al Ahly,0,3,False,Away Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2023-05-13,2022/23,CAF Champions League,Semi-final,Wydad Casablanca,Mamelodi Sundowns,0,0,False,Draw,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2023-05-19,2022/23,CAF Champions League,Semi-final,Al Ahly,Esperance de Tunis,1,0,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2023-05-20,2022/23,CAF Champions League,Semi-final,Mamelodi Sundowns,Wydad Casablanca,2,2,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2023-06-04,2022/23,CAF Champions League,Final,Al Ahly,Wydad Casablanca,2,1,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,56,-33,3669.2,Arid
+2023-06-11,2022/23,CAF Champions League,Final,Wydad Casablanca,Al Ahly,1,1,False,Draw,Morocco,Egypt,North Africa,North Africa,No,56,23,33,3669.2,Mediterranean
+2023-11-24,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,FC Nouadhibou,3,0,False,Home Win,South Africa,Mauritania,Southern Africa,North Africa,Yes,1340,5,1335,7126.7,Semi-Arid
+2023-11-24,2023/24,CAF Champions League,Group Stage,TP Mazembe,Pyramids,1,0,False,Home Win,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4651.1,Tropical
+2023-11-24,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Jwaneng Galaxy,3,0,False,Home Win,Ivory Coast,Botswana,West Africa,Southern Africa,Yes,20,1100,-1080,4557.2,Tropical
+2023-11-24,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Al Hilal,1,0,False,Home Win,Angola,Sudan,Southern Africa,East Africa,Yes,60,380,-320,3443.2,Tropical
+2023-11-24,2023/24,CAF Champions League,Group Stage,Al Ahly,Young Africans,1,0,False,Home Win,Egypt,Tanzania,North Africa,East Africa,Yes,23,55,-32,4185.2,Arid
+2023-11-25,2023/24,CAF Champions League,Group Stage,Simba SC,Wydad Casablanca,2,0,False,Home Win,Tanzania,Morocco,East Africa,North Africa,Yes,55,56,-1,6664.6,Tropical
+2023-11-25,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Etoile du Sahel,2,0,False,Home Win,Tunisia,Tunisia,North Africa,North Africa,No,10,20,-10,116.5,Mediterranean
+2023-11-25,2023/24,CAF Champions League,Group Stage,Medeama,CR Belouizdad,2,1,False,Home Win,Ghana,Algeria,West Africa,North Africa,Yes,70,424,-354,3563.3,Tropical
+2023-12-01,2023/24,CAF Champions League,Group Stage,Pyramids,Mamelodi Sundowns,0,1,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6208.4,Arid
+2023-12-01,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,Simba SC,0,6,False,Away Win,Botswana,Tanzania,Southern Africa,East Africa,Yes,1100,55,1045,2509.8,Semi-Arid
+2023-12-01,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Petro de Luanda,0,2,False,Away Win,Tunisia,Angola,North Africa,Southern Africa,Yes,20,60,-40,4973.6,Mediterranean
+2023-12-01,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,0,0,False,Draw,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2023-12-02,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,TP Mazembe,0,0,False,Draw,Mauritania,DR Congo,North Africa,Central Africa,Yes,5,1250,-1245,6065.1,Arid
+2023-12-02,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,ASEC Mimosas,1,0,False,Home Win,Morocco,Ivory Coast,North Africa,West Africa,Yes,56,20,36,3160.1,Mediterranean
+2023-12-02,2023/24,CAF Champions League,Group Stage,Al Hilal,Esperance de Tunis,3,1,False,Home Win,Sudan,Tunisia,East Africa,North Africa,Yes,380,10,370,3238.7,Arid
+2023-12-02,2023/24,CAF Champions League,Group Stage,Young Africans,Medeama,3,0,False,Home Win,Tanzania,Ghana,East Africa,West Africa,Yes,55,70,-15,4731.0,Tropical
+2023-12-08,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,Pyramids,2,0,False,Home Win,Mauritania,Egypt,North Africa,North Africa,No,5,23,-18,4911.2,Arid
+2023-12-08,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,Jwaneng Galaxy,0,1,False,Away Win,Morocco,Botswana,North Africa,Southern Africa,Yes,56,1100,-1044,7316.4,Mediterranean
+2023-12-08,2023/24,CAF Champions League,Group Stage,Al Hilal,Etoile du Sahel,1,1,False,Draw,Sudan,Tunisia,East Africa,North Africa,Yes,380,20,360,3136.6,Arid
+2023-12-08,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Young Africans,3,0,False,Home Win,Algeria,Tanzania,North Africa,East Africa,Yes,424,55,369,6127.6,Mediterranean
+2023-12-09,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,TP Mazembe,1,0,False,Home Win,South Africa,DR Congo,Southern Africa,Central Africa,Yes,1340,1250,90,1568.4,Semi-Arid
+2023-12-09,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Simba SC,0,0,False,Draw,Ivory Coast,Tanzania,West Africa,East Africa,Yes,20,55,-35,4983.2,Tropical
+2023-12-09,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Esperance de Tunis,0,0,False,Draw,Angola,Tunisia,Southern Africa,North Africa,Yes,60,10,50,5085.3,Tropical
+2023-12-09,2023/24,CAF Champions League,Group Stage,Al Ahly,Medeama,3,0,False,Home Win,Egypt,Ghana,North Africa,West Africa,Yes,23,70,-47,4440.8,Arid
+2023-12-19,2023/24,CAF Champions League,Group Stage,TP Mazembe,FC Nouadhibou,2,0,False,Home Win,DR Congo,Mauritania,Central Africa,North Africa,Yes,1250,5,1245,6065.1,Tropical
+2023-12-19,2023/24,CAF Champions League,Group Stage,Pyramids,Mamelodi Sundowns,0,0,False,Draw,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6208.4,Arid
+2023-12-19,2023/24,CAF Champions League,Group Stage,Simba SC,ASEC Mimosas,1,1,False,Draw,Tanzania,Ivory Coast,East Africa,West Africa,Yes,55,20,35,4983.2,Tropical
+2023-12-19,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,Wydad Casablanca,0,0,False,Draw,Botswana,Morocco,Southern Africa,North Africa,Yes,1100,56,1044,7316.4,Semi-Arid
+2023-12-19,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Al Hilal,1,0,False,Home Win,Tunisia,Sudan,North Africa,East Africa,Yes,20,380,-360,3136.6,Mediterranean
+2023-12-19,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Petro de Luanda,2,0,False,Home Win,Tunisia,Angola,North Africa,Southern Africa,Yes,10,60,-50,5085.3,Mediterranean
+2024-01-13,2023,African Cup of Nations,Group Stage,Ivory Coast,Guinea-Bissau,2,0,False,Home Win,Ivory Coast,Guinea-Bissau,West Africa,West Africa,No,20,20,0,,Tropical
+2024-01-18,2023,African Cup of Nations,Group Stage,Ivory Coast,Nigeria,0,1,False,Away Win,Ivory Coast,Nigeria,West Africa,West Africa,No,20,41,-21,,Tropical
+2024-01-22,2023,African Cup of Nations,Group Stage,Ivory Coast,Equatorial Guinea,0,4,False,Away Win,Ivory Coast,Equatorial Guinea,West Africa,Central Africa,Yes,20,30,-10,,Tropical
+2024-01-29,2023,African Cup of Nations,Round of 16,Ivory Coast,Senegal,1,1,False,Draw,Ivory Coast,Senegal,West Africa,West Africa,No,20,10,10,,Tropical
+2024-02-03,2023,African Cup of Nations,Quarter-final,Ivory Coast,Mali,2,1,False,Home Win,Ivory Coast,Mali,West Africa,West Africa,No,20,370,-350,,Tropical
+2024-02-07,2023,African Cup of Nations,Semi-final,Ivory Coast,DR Congo,1,0,False,Home Win,Ivory Coast,DR Congo,West Africa,Central Africa,Yes,20,320,-300,,Tropical
+2024-02-11,2023,African Cup of Nations,Final,Ivory Coast,Nigeria,2,1,False,Home Win,Ivory Coast,Nigeria,West Africa,West Africa,No,20,41,-21,,Tropical
+2024-02-16,2023/24,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,0,0,False,Draw,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2024-02-23,2023/24,CAF Champions League,Group Stage,FC Nouadhibou,Mamelodi Sundowns,0,2,False,Away Win,Mauritania,South Africa,North Africa,Southern Africa,Yes,5,1340,-1335,7126.7,Arid
+2024-02-23,2023/24,CAF Champions League,Group Stage,Pyramids,TP Mazembe,1,0,False,Home Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4651.1,Arid
+2024-02-23,2023/24,CAF Champions League,Group Stage,ASEC Mimosas,Wydad Casablanca,1,0,False,Home Win,Ivory Coast,Morocco,West Africa,North Africa,Yes,20,56,-36,3160.1,Tropical
+2024-02-23,2023/24,CAF Champions League,Group Stage,Simba SC,Jwaneng Galaxy,0,0,False,Draw,Tanzania,Botswana,East Africa,Southern Africa,Yes,55,1100,-1045,2509.8,Tropical
+2024-02-23,2023/24,CAF Champions League,Group Stage,Al Hilal,Petro de Luanda,0,0,False,Draw,Sudan,Angola,East Africa,Southern Africa,Yes,380,60,320,3443.2,Arid
+2024-02-23,2023/24,CAF Champions League,Group Stage,Etoile du Sahel,Esperance de Tunis,0,2,False,Away Win,Tunisia,Tunisia,North Africa,North Africa,No,20,10,10,116.5,Mediterranean
+2024-02-23,2023/24,CAF Champions League,Group Stage,Young Africans,CR Belouizdad,4,0,False,Home Win,Tanzania,Algeria,East Africa,North Africa,Yes,55,424,-369,6127.6,Tropical
+2024-02-23,2023/24,CAF Champions League,Group Stage,Al Ahly,CR Belouizdad,0,0,False,Draw,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2024-03-01,2023/24,CAF Champions League,Group Stage,Mamelodi Sundowns,Pyramids,0,1,False,Away Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6208.4,Semi-Arid
+2024-03-01,2023/24,CAF Champions League,Group Stage,Wydad Casablanca,Simba SC,1,0,False,Home Win,Morocco,Tanzania,North Africa,East Africa,Yes,56,55,1,6664.6,Mediterranean
+2024-03-01,2023/24,CAF Champions League,Group Stage,Petro de Luanda,Etoile du Sahel,2,0,False,Home Win,Angola,Tunisia,Southern Africa,North Africa,Yes,60,20,40,4973.6,Tropical
+2024-03-01,2023/24,CAF Champions League,Group Stage,Medeama,Young Africans,1,1,False,Draw,Ghana,Tanzania,West Africa,East Africa,Yes,70,55,15,4731.0,Tropical
+2024-03-01,2023/24,CAF Champions League,Group Stage,Young Africans,Al Ahly,1,1,False,Draw,Tanzania,Egypt,East Africa,North Africa,Yes,55,23,32,4185.2,Tropical
+2024-03-02,2023/24,CAF Champions League,Group Stage,TP Mazembe,Mamelodi Sundowns,3,0,False,Home Win,DR Congo,South Africa,Central Africa,Southern Africa,Yes,1250,1340,-90,1568.4,Tropical
+2024-03-02,2023/24,CAF Champions League,Group Stage,Jwaneng Galaxy,ASEC Mimosas,0,2,False,Away Win,Botswana,Ivory Coast,Southern Africa,West Africa,Yes,1100,20,1080,4557.2,Semi-Arid
+2024-03-02,2023/24,CAF Champions League,Group Stage,Esperance de Tunis,Al Hilal,1,0,False,Home Win,Tunisia,Sudan,North Africa,East Africa,Yes,10,380,-370,3238.7,Mediterranean
+2024-03-02,2023/24,CAF Champions League,Group Stage,Al Ahly,Young Africans,1,0,False,Home Win,Egypt,Tanzania,North Africa,East Africa,Yes,23,55,-32,4185.2,Arid
+2024-03-29,2023/24,CAF Champions League,Quarter-final,Simba SC,Al Ahly,0,1,False,Away Win,Tanzania,Egypt,East Africa,North Africa,Yes,55,23,32,4185.2,Tropical
+2024-03-29,2023/24,CAF Champions League,Quarter-final,TP Mazembe,Petro de Luanda,0,0,False,Draw,DR Congo,Angola,Central Africa,Southern Africa,Yes,1250,60,1190,1589.7,Tropical
+2024-03-30,2023/24,CAF Champions League,Quarter-final,Esperance de Tunis,ASEC Mimosas,0,0,False,Draw,Tunisia,Ivory Coast,North Africa,West Africa,Yes,10,20,-10,3784.8,Mediterranean
+2024-03-30,2023/24,CAF Champions League,Quarter-final,Young Africans,Mamelodi Sundowns,0,0,False,Draw,Tanzania,South Africa,East Africa,Southern Africa,Yes,55,1340,-1285,2408.3,Tropical
+2024-04-05,2023/24,CAF Champions League,Quarter-final,Al Ahly,Simba SC,2,0,False,Home Win,Egypt,Tanzania,North Africa,East Africa,Yes,23,55,-32,4185.2,Arid
+2024-04-05,2023/24,CAF Champions League,Quarter-final,ASEC Mimosas,Esperance de Tunis,0,0,False,Draw,Ivory Coast,Tunisia,West Africa,North Africa,Yes,20,10,10,3784.8,Tropical
+2024-04-05,2023/24,CAF Champions League,Quarter-final,Mamelodi Sundowns,Young Africans,0,0,False,Draw,South Africa,Tanzania,Southern Africa,East Africa,Yes,1340,55,1285,2408.3,Semi-Arid
+2024-04-06,2023/24,CAF Champions League,Quarter-final,Petro de Luanda,TP Mazembe,1,2,False,Away Win,Angola,DR Congo,Southern Africa,Central Africa,Yes,60,1250,-1190,1589.7,Tropical
+2024-04-20,2023/24,CAF Champions League,Semi-final,Esperance de Tunis,Mamelodi Sundowns,1,0,False,Home Win,Tunisia,South Africa,North Africa,Southern Africa,Yes,10,1340,-1330,7207.9,Mediterranean
+2024-04-20,2023/24,CAF Champions League,Semi-final,TP Mazembe,Al Ahly,0,0,False,Draw,DR Congo,Egypt,Central Africa,North Africa,Yes,1250,23,1227,4657.0,Tropical
+2024-04-26,2023/24,CAF Champions League,Semi-final,Mamelodi Sundowns,Esperance de Tunis,0,1,False,Away Win,South Africa,Tunisia,Southern Africa,North Africa,Yes,1340,10,1330,7207.9,Semi-Arid
+2024-04-26,2023/24,CAF Champions League,Semi-final,Al Ahly,TP Mazembe,3,0,False,Home Win,Egypt,DR Congo,North Africa,Central Africa,Yes,23,1250,-1227,4657.0,Arid
+2024-05-18,2023/24,CAF Champions League,Final,Esperance de Tunis,Al Ahly,0,0,False,Draw,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2088.3,Mediterranean
+2024-05-25,2023/24,CAF Champions League,Final,Al Ahly,Esperance de Tunis,1,0,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2088.3,Arid
+2024-11-26,2024/25,CAF Champions League,Group Stage,Al Hilal,MC Alger,1,1,False,Draw,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2024-11-26,2024/25,CAF Champions League,Group Stage,Young Africans,TP Mazembe,1,1,False,Draw,Tanzania,DR Congo,East Africa,Central Africa,Yes,55,1250,-1195,1396.1,Tropical
+2024-11-26,2024/25,CAF Champions League,Group Stage,AS FAR,Mamelodi Sundowns,1,1,False,Draw,Morocco,South Africa,North Africa,Southern Africa,Yes,495,1340,-845,7602.8,Mediterranean
+2024-11-26,2024/25,CAF Champions League,Group Stage,Orlando Pirates,Stade d'Abidjan,3,0,False,Home Win,South Africa,Ivory Coast,Southern Africa,West Africa,Yes,1753,20,1733,4924.1,Semi-Arid
+2024-11-26,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Sagrada Esperanca,4,1,False,Home Win,Tunisia,Angola,North Africa,Southern Africa,Yes,10,1350,-1340,5314.6,Mediterranean
+2024-11-27,2024/25,CAF Champions League,Group Stage,AS FAR,Raja Casablanca,1,1,False,Draw,Morocco,Morocco,North Africa,North Africa,No,495,56,439,81.5,Mediterranean
+2024-11-27,2024/25,CAF Champions League,Group Stage,Al Ahly,CR Belouizdad,6,1,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,424,-401,2706.6,Arid
+2024-11-27,2024/25,CAF Champions League,Group Stage,Pyramids,Djoliba,6,0,False,Home Win,Egypt,Mali,North Africa,West Africa,Yes,23,370,-347,4466.9,Arid
+2024-12-06,2024/25,CAF Champions League,Group Stage,TP Mazembe,Al Hilal,4,0,False,Home Win,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2024-12-06,2024/25,CAF Champions League,Group Stage,Raja Casablanca,Mamelodi Sundowns,1,0,False,Home Win,Morocco,South Africa,North Africa,Southern Africa,Yes,56,1340,-1284,7604.6,Mediterranean
+2024-12-06,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Orlando Pirates,1,2,False,Away Win,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1753,-1329,7470.7,Mediterranean
+2024-12-06,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Pyramids,0,1,False,Away Win,Angola,Egypt,Southern Africa,North Africa,Yes,1350,23,1327,4827.4,Tropical
+2024-12-07,2024/25,CAF Champions League,Group Stage,MC Alger,Young Africans,2,0,False,Home Win,Algeria,Tanzania,North Africa,East Africa,Yes,424,55,369,6127.6,Mediterranean
+2024-12-07,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,AS FAR,1,1,False,Draw,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,495,845,7602.8,Semi-Arid
+2024-12-07,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,Al Ahly,1,3,False,Away Win,Ivory Coast,Egypt,West Africa,North Africa,Yes,20,23,-3,4602.0,Tropical
+2024-12-07,2024/25,CAF Champions League,Group Stage,Djoliba,Esperance de Tunis,0,1,False,Away Win,Mali,Tunisia,West Africa,North Africa,Yes,370,10,360,3241.5,Semi-Arid
+2024-12-13,2024/25,CAF Champions League,Group Stage,MC Alger,TP Mazembe,1,0,False,Home Win,Algeria,DR Congo,North Africa,Central Africa,Yes,424,1250,-826,5956.3,Mediterranean
+2024-12-13,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,Raja Casablanca,1,0,False,Home Win,South Africa,Morocco,Southern Africa,North Africa,Yes,1340,56,1284,7604.6,Semi-Arid
+2024-12-13,2024/25,CAF Champions League,Group Stage,Orlando Pirates,CR Belouizdad,2,1,False,Home Win,South Africa,Algeria,Southern Africa,North Africa,Yes,1753,424,1329,7470.7,Semi-Arid
+2024-12-13,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Djoliba,4,0,False,Home Win,Tunisia,Mali,North Africa,West Africa,Yes,10,370,-360,3241.5,Mediterranean
+2024-12-14,2024/25,CAF Champions League,Group Stage,Young Africans,Al Hilal,0,2,False,Away Win,Tanzania,Sudan,East Africa,East Africa,No,55,380,-325,2584.8,Tropical
+2024-12-14,2024/25,CAF Champions League,Group Stage,AS FAR,AS Maniema Union,2,0,False,Home Win,Morocco,DR Congo,North Africa,Central Africa,Yes,495,500,-5,5326.8,Mediterranean
+2024-12-14,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,CR Belouizdad,0,6,False,Away Win,Ivory Coast,Algeria,West Africa,North Africa,Yes,20,424,-404,3564.5,Tropical
+2024-12-14,2024/25,CAF Champions League,Group Stage,Pyramids,Sagrada Esperanca,5,1,False,Home Win,Egypt,Angola,North Africa,Southern Africa,Yes,23,1350,-1327,4827.4,Arid
+2025-01-03,2024/25,CAF Champions League,Group Stage,Al Hilal,Young Africans,2,1,False,Home Win,Sudan,Tanzania,East Africa,East Africa,No,380,55,325,2584.8,Arid
+2025-01-03,2024/25,CAF Champions League,Group Stage,AS Maniema Union,AS FAR,1,1,False,Draw,DR Congo,Morocco,Central Africa,North Africa,Yes,500,495,5,5326.8,Tropical
+2025-01-03,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Stade d'Abidjan,0,1,False,Away Win,Algeria,Ivory Coast,North Africa,West Africa,Yes,424,20,404,3564.5,Mediterranean
+2025-01-03,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Esperance de Tunis,0,0,False,Draw,Angola,Tunisia,Southern Africa,North Africa,Yes,1350,10,1340,5314.6,Tropical
+2025-01-04,2024/25,CAF Champions League,Group Stage,TP Mazembe,MC Alger,0,0,False,Draw,DR Congo,Algeria,Central Africa,North Africa,Yes,1250,424,826,5956.3,Tropical
+2025-01-04,2024/25,CAF Champions League,Group Stage,Raja Casablanca,AS Maniema Union,1,0,False,Home Win,Morocco,DR Congo,North Africa,Central Africa,Yes,56,500,-444,5347.6,Mediterranean
+2025-01-04,2024/25,CAF Champions League,Group Stage,Al Ahly,Orlando Pirates,1,2,False,Away Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,6265.9,Arid
+2025-01-04,2024/25,CAF Champions League,Group Stage,Djoliba,Pyramids,0,0,False,Draw,Mali,Egypt,West Africa,North Africa,Yes,370,23,347,4466.9,Semi-Arid
+2025-01-10,2024/25,CAF Champions League,Group Stage,Al Hilal,TP Mazembe,0,1,False,Away Win,Sudan,DR Congo,East Africa,Central Africa,Yes,380,1250,-870,3071.6,Arid
+2025-01-10,2024/25,CAF Champions League,Group Stage,AS Maniema Union,Mamelodi Sundowns,1,2,False,Away Win,DR Congo,South Africa,Central Africa,Southern Africa,Yes,500,1340,-840,2594.4,Tropical
+2025-01-10,2024/25,CAF Champions League,Group Stage,Al Ahly,Stade d'Abidjan,4,2,False,Home Win,Egypt,Ivory Coast,North Africa,West Africa,Yes,23,20,3,4602.0,Arid
+2025-01-10,2024/25,CAF Champions League,Group Stage,Sagrada Esperanca,Djoliba,1,0,False,Home Win,Angola,Mali,Southern Africa,West Africa,Yes,1350,370,980,3678.7,Tropical
+2025-01-11,2024/25,CAF Champions League,Group Stage,Young Africans,MC Alger,0,0,False,Draw,Tanzania,Algeria,East Africa,North Africa,Yes,55,424,-369,6127.6,Tropical
+2025-01-11,2024/25,CAF Champions League,Group Stage,Raja Casablanca,AS FAR,0,2,False,Away Win,Morocco,Morocco,North Africa,North Africa,No,56,495,-439,81.5,Mediterranean
+2025-01-11,2024/25,CAF Champions League,Group Stage,Orlando Pirates,Al Ahly,2,1,False,Home Win,South Africa,Egypt,Southern Africa,North Africa,Yes,1753,23,1730,6265.9,Semi-Arid
+2025-01-11,2024/25,CAF Champions League,Group Stage,Pyramids,Esperance de Tunis,2,1,False,Home Win,Egypt,Tunisia,North Africa,North Africa,No,23,10,13,2087.3,Arid
+2025-01-17,2024/25,CAF Champions League,Group Stage,MC Alger,Al Hilal,0,1,False,Away Win,Algeria,Sudan,North Africa,East Africa,Yes,424,380,44,3745.0,Mediterranean
+2025-01-17,2024/25,CAF Champions League,Group Stage,Mamelodi Sundowns,AS Maniema Union,0,0,False,Draw,South Africa,DR Congo,Southern Africa,Central Africa,Yes,1340,500,840,2594.4,Semi-Arid
+2025-01-17,2024/25,CAF Champions League,Group Stage,CR Belouizdad,Al Ahly,1,0,False,Home Win,Algeria,Egypt,North Africa,North Africa,No,424,23,401,2706.6,Mediterranean
+2025-01-17,2024/25,CAF Champions League,Group Stage,Esperance de Tunis,Pyramids,2,0,False,Home Win,Tunisia,Egypt,North Africa,North Africa,No,10,23,-13,2087.3,Mediterranean
+2025-01-18,2024/25,CAF Champions League,Group Stage,TP Mazembe,Young Africans,1,3,False,Away Win,DR Congo,Tanzania,Central Africa,East Africa,Yes,1250,55,1195,1396.1,Tropical
+2025-01-18,2024/25,CAF Champions League,Group Stage,AS FAR,Raja Casablanca,1,0,False,Home Win,Morocco,Morocco,North Africa,North Africa,No,495,56,439,81.5,Mediterranean
+2025-01-18,2024/25,CAF Champions League,Group Stage,Stade d'Abidjan,Orlando Pirates,1,1,False,Draw,Ivory Coast,South Africa,West Africa,Southern Africa,Yes,20,1753,-1733,4924.1,Tropical
+2025-01-18,2024/25,CAF Champions League,Group Stage,Djoliba,Sagrada Esperanca,0,0,False,Draw,Mali,Angola,West Africa,Southern Africa,Yes,370,1350,-980,3678.7,Semi-Arid
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Al Ahly,Al Hilal,1,0,False,Home Win,Egypt,Sudan,North Africa,East Africa,Yes,23,380,-357,1624.7,Arid
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Pyramids,AS FAR,4,1,False,Home Win,Egypt,Morocco,North Africa,North Africa,No,23,495,-472,3595.6,Arid
+2025-04-01,2024/25,CAF Champions League,Quarter-final,Mamelodi Sundowns,Esperance de Tunis,1,0,False,Home Win,South Africa,Tunisia,Southern Africa,North Africa,Yes,1340,10,1330,7207.9,Semi-Arid
+2025-04-02,2024/25,CAF Champions League,Quarter-final,MC Alger,Orlando Pirates,0,1,False,Away Win,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1753,-1329,7470.7,Mediterranean
+2025-04-08,2024/25,CAF Champions League,Quarter-final,Al Hilal,Al Ahly,0,1,False,Away Win,Sudan,Egypt,East Africa,North Africa,Yes,380,23,357,1624.7,Arid
+2025-04-08,2024/25,CAF Champions League,Quarter-final,Esperance de Tunis,Mamelodi Sundowns,0,0,False,Draw,Tunisia,South Africa,North Africa,Southern Africa,Yes,10,1340,-1330,7207.9,Mediterranean
+2025-04-09,2024/25,CAF Champions League,Quarter-final,AS FAR,Pyramids,2,0,False,Home Win,Morocco,Egypt,North Africa,North Africa,No,495,23,472,3595.6,Mediterranean
+2025-04-09,2024/25,CAF Champions League,Quarter-final,Orlando Pirates,MC Alger,0,0,False,Draw,South Africa,Algeria,Southern Africa,North Africa,Yes,1753,424,1329,7470.7,Semi-Arid
+2025-04-18,2024/25,CAF Champions League,Semi-final,Mamelodi Sundowns,Al Ahly,0,0,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6214.2,Semi-Arid
+2025-04-18,2024/25,CAF Champions League,Semi-final,Orlando Pirates,Pyramids,0,0,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1753,23,1730,6260.1,Semi-Arid
+2025-04-25,2024/25,CAF Champions League,Semi-final,Al Ahly,Mamelodi Sundowns,1,1,False,Draw,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6214.2,Arid
+2025-04-26,2024/25,CAF Champions League,Semi-final,Pyramids,Orlando Pirates,3,2,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1753,-1730,6260.1,Arid
+2025-05-24,2024/25,CAF Champions League,Final,Mamelodi Sundowns,Pyramids,1,1,False,Draw,South Africa,Egypt,Southern Africa,North Africa,Yes,1340,23,1317,6208.4,Semi-Arid
+2025-06-01,2024/25,CAF Champions League,Final,Pyramids,Mamelodi Sundowns,2,1,False,Home Win,Egypt,South Africa,North Africa,Southern Africa,Yes,23,1340,-1317,6208.4,Arid
+2025-11-21,2025/26,CAF Champions League,Group Stage,Al Hilal,MC Alger,2,1,False,Home Win,Sudan,Algeria,East Africa,North Africa,Yes,380,424,-44,3745.0,Arid
+2025-11-22,2025/26,CAF Champions League,Group Stage,Mamelodi Sundowns,Saint-Eloi Lupopo,3,1,False,Home Win,South Africa,DR Congo,Southern Africa,Central Africa,Yes,1340,1250,90,1568.4,Semi-Arid
+2025-11-22,2025/26,CAF Champions League,Group Stage,Young Africans,AS FAR,1,0,False,Home Win,Tanzania,Morocco,East Africa,North Africa,Yes,55,495,-440,6632.2,Tropical
+2025-11-22,2025/26,CAF Champions League,Group Stage,Al Ahly,JS Kabylie,4,1,False,Home Win,Egypt,Algeria,North Africa,North Africa,No,23,250,-227,2570.0,Arid
+2025-11-22,2025/26,CAF Champions League,Group Stage,Esperance de Tunis,Stade Malien,0,0,False,Draw,Tunisia,Mali,North Africa,West Africa,Yes,10,370,-360,3241.5,Mediterranean
+2025-11-22,2025/26,CAF Champions League,Group Stage,Pyramids,Rivers United,3,0,False,Home Win,Egypt,Nigeria,North Africa,West Africa,Yes,23,20,3,3777.9,Arid
+2025-11-22,2025/26,CAF Champions League,Group Stage,RSB Berkane,Power Dynamos,3,0,False,Home Win,Morocco,Zambia,North Africa,Southern Africa,Yes,430,1280,-850,6206.5,Semi-Arid
+2025-11-23,2025/26,CAF Champions League,Group Stage,Simba SC,Petro de Luanda,0,1,False,Away Win,Tanzania,Angola,East Africa,Southern Africa,Yes,55,60,-5,2869.7,Tropical
+2025-11-28,2025/26,CAF Champions League,Group Stage,JS Kabylie,Young Africans,0,0,False,Draw,Algeria,Tanzania,North Africa,East Africa,Yes,250,55,195,6027.9,Mediterranean
+2025-11-28,2025/26,CAF Champions League,Group Stage,Rivers United,RSB Berkane,1,2,False,Away Win,Nigeria,Morocco,West Africa,North Africa,Yes,20,430,-410,3483.4,Tropical
+2025-11-28,2025/26,CAF Champions League,Group Stage,AS FAR,Al Ahly,1,1,False,Draw,Morocco,Egypt,North Africa,North Africa,No,495,23,472,3597.7,Mediterranean
+2025-11-28,2025/26,CAF Champions League,Group Stage,MC Alger,Mamelodi Sundowns,0,0,False,Draw,Algeria,South Africa,North Africa,Southern Africa,Yes,424,1340,-916,7430.3,Mediterranean
+2025-11-29,2025/26,CAF Champions League,Group Stage,Petro de Luanda,Esperance de Tunis,1,1,False,Draw,Angola,Tunisia,Southern Africa,North Africa,Yes,60,10,50,5085.3,Tropical
+2025-11-29,2025/26,CAF Champions League,Group Stage,Power Dynamos,Pyramids,0,1,False,Away Win,Zambia,Egypt,Southern Africa,North Africa,Yes,1280,23,1257,4771.6,Tropical
+2025-11-30,2025/26,CAF Champions League,Group Stage,Saint-Eloi Lupopo,Al Hilal,1,1,False,Draw,DR Congo,Sudan,Central Africa,East Africa,Yes,1250,380,870,3071.6,Tropical
+2025-11-30,2025/26,CAF Champions League,Group Stage,Stade Malien,Simba SC,2,1,False,Home Win,Mali,Tanzania,West Africa,East Africa,Yes,370,55,315,5646.4,Semi-Arid
+2025-12-21,2025,African Cup of Nations,Group Stage,Morocco,Comoros,2,0,False,Home Win,Morocco,Comoros,North Africa,Southern Africa,Yes,495,30,465,,Mediterranean
+2025-12-26,2025,African Cup of Nations,Group Stage,Morocco,Mali,1,1,False,Draw,Morocco,Mali,North Africa,West Africa,Yes,495,370,125,,Mediterranean
+2025-12-29,2025,African Cup of Nations,Group Stage,Morocco,Zambia,3,0,False,Home Win,Morocco,Zambia,North Africa,Southern Africa,Yes,495,1279,-784,,Mediterranean
