@@ -104,7 +104,7 @@ This prints all table values to stdout and saves `Figure_2_Temporal_Trend.png` i
 
 If you use this dataset or code, please cite:
 
-> E. H. Chinedu, "Quantifying Home Advantage in African Football Competitions Using Statistical Data Analysis: Evidence from the CAF Champions League and AFCON (2010–2025)," *IEEE Conference Proceedings*, 2025.
+> H. C. Ezeobi, "Quantifying Home Advantage in African Football Competitions Using Statistical Data Analysis: Evidence from the CAF Champions League and AFCON (2010–2025)," *IEEE Conference Proceedings*, 2025.
 
 ---
 
